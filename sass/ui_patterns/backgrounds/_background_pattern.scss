@@ -1,0 +1,17 @@
+@import "mixins";
+@import "extends";
+
+// -----------------------------------------
+
+%login-grad {
+	@include filter-gradient( #211D1D, #6D6D70, vertical); //IE6-9
+	@include background-image(linear-gradient(top, #211D1D 0%, #6D6D70 100%));
+	background-color: #D6D670;
+
+}
+
+%footer-grad  {
+	@include filter-gradient( #eeeeee, #d6d6d6, vertical); //IE6-9
+	@include background-image(linear-gradient(top, #eeeeee 0%, #d6d6d6 100%));
+	background-color: #eee;
+}

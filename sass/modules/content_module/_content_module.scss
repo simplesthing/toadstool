@@ -1,0 +1,15 @@
+@import "mixins";
+@import "extends";
+
+// -----------------------------------------
+
+%content-login {
+	@include clearfix;
+	 background-color: $white;
+	 border-radius: em(8) em(8) 0 0;
+	 margin:0 auto;
+	 text-align:left;
+	 width:975px; //I know there is a grid I should be using for this
+}
+
+

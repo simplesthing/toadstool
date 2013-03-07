@@ -5,12 +5,12 @@
 
 /////// Typography configuration/////// 
 // -----------------------------------------------------------------------------
-// $font_size: 12;
+$font_size: 14;
 // 
 // $heading_1: 46;
-// $heading_2: 32;
+$heading_2: 26;
 // $heading_3: 28;
-// $heading_4: 18;
+$heading_4: 16;
 // $heading_5: 18;
 // $heading_6: 18;
 // 
@@ -42,13 +42,13 @@
 // Using Toadstool, all you need to do is edit these 6 hex values and everything else is created
 // by magic, unicorns and fairy dust!
 
-// $alpha_primary:   #5a2e2e;        // red
-// $bravo_primary:   #3e4147;        // green
+$alpha_primary:   rgb(255, 0 ,0);        // red
+$bravo_primary:   rgb(105, 161, 6);        // green
 // $charlie_primary: #fffedf;        // yellow
 // $delta_primary:   #2a2c31;        // blue
 // $echo_primary:    #dfba69;        // accent
 
-// $alpha_gray:      #333;           //black
+$alpha_gray:      #231F20;           //black
 
 /////// Toadstool color math /////// 
 // -----------------------------------------------------------------------------
@@ -90,8 +90,8 @@
 // $secondary_text:                       $bravo_gray;
 
 // default `href` link color
-// $href_color:                           $delta_color;
-// $href_color_alt:                       $delta_color_bravo;
+$href_color:                           $bravo_color;
+$href_color_alt:                       $charlie_gray;
 
 // default shadow colors
 // $shadow_color:                         fade-out($alpha_gray, 0.5);
@@ -138,7 +138,7 @@
 // $form_field_focus_border_color: $charlie_gray;
 
 // $form_field_text_fail:          $alpha_color_echo;
-// $form_label_color:              $alpha_gray;
+$form_label_color:              $delta_gray;
 // $optional_field_text_color:     $delta_gray;
 // $instructional_text:            $charlie_gray;
 // $placeholder_text:              $hotel_gray;
@@ -149,10 +149,10 @@
 // ---------------------------------------------------------
 // $form_field_border_radius:      $standard_round_corner;                                
 // $form_field_text:               $primary_text;
-// $form_field_height:             35;
-// $form_field_padding:            6;
+$form_field_height:             26;
+$form_field_padding:            2;
 // $form_label_weight:             bold;
-// $form_label_lineheight:         20;
+$form_label_lineheight:         26;
 // $inline_alert_lineheight:       30;
 // $inline_alert_left_padding:     12;
 // $inline_alert_weight:           bold;
@@ -163,12 +163,12 @@
 
 /////// Config defaults for buttons /////// 
 // -----------------------------------------------------------------------------
-// $button-color:  $delta-color;
-// $button-text-color: $white;
+$button-color:  $india_gray;
+$button-text-color: $alpha_gray;
 // $button-line-height: 32;
-// $button-border-radius: 3;
+$button-border-radius: 5;
 // $button-padding: 20;
-// $button-font-size: 18;
+$button-font-size: 12;
 // $button-weight: bold;
 // $button-text-shadow: true;
 // $button-box-shadow: true;

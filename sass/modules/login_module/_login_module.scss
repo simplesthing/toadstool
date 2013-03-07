@@ -1,0 +1,63 @@
+@import "mixins";
+@import "extends";
+
+// -----------------------------------------
+
+
+#login-area {
+	float:left;
+	
+	form {
+		margin: 34px 45px 60px 40px;
+	}
+
+	input, label {
+		@extend %headings_4
+	}
+
+	ul li {
+		margin:8px 0;
+		width:330px;
+	}
+
+	li.remember-me {
+		margin-top:18px;
+	
+		label {
+			display: inline;
+			font-size: 12px;
+			font-weight: normal;
+		}	
+	}
+
+	li.login-forgot-password {
+		margin-top:18px;
+	
+		a {
+			font-size:12px;
+			float:right;
+		}
+	}
+}
+
+
+
+#login-feeds {
+	border-left:solid 1px $hotel_gray;
+	display:inline-block;
+	margin: 34px 0px 60px 40px;
+	padding:11px 45px 0px 45px;
+	width:395px;
+
+	h4 {
+		border-bottom:1px solid $bravo_gray;
+		margin-bottom:14px;
+		padding-bottom:10px;
+		width:100%;
+	}
+
+	ul	{
+		@include strong($alpha_primary, 1.5em);
+		padding: 14px 0;
+	}
+}

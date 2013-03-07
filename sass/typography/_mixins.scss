@@ -1,2 +1,7 @@
 // Use this Sass file to create custom typography mixins per your project
 // -----------------------------------------------------------------------
+@mixin strong($hue, $f-size) {
+	color: $hue;
+	font-size: $f-size;
+	font-weight:bold;
+}
