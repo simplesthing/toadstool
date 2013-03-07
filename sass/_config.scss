@@ -74,10 +74,9 @@ $charlie_primary: #EFB300;;      // yellow
 $delta_primary:   #00478B;       // blue
 $echo_primary:    #D73F00;       // orange
 $fox_primary: 	  #322500;		 // brown
-$hotel_primary:   #424B42;       //custom gray
-$india_primary:   #231F20;    	 //custom to match logo for demo
+//$hotel_primary:   #424B42;       //custom gray - can we use grayscale??
 
-$alpha_gray:      #000;           //black 
+$alpha_gray:      #121212;           //black 
 
 
 /////// Toadstool color math /////// 
@@ -110,14 +109,14 @@ $alpha_gray:      #000;           //black
 // $white:                                #fff;
 
 // primary header font color
-// $primary_header_color:                 $alpha_gray;
+$primary_header_color:                 $alpha_gray;
 
 // default heading font weight
 // $heading_font_weight:                  normal;
 
 // primary font color for the app
 // $primary_text:                         $bravo_gray;
-// $secondary_text:                       $bravo_gray;
+$secondary_text:                       $delta_gray;
 
 // default `href` link color
 $href_color:                           $bravo_color;

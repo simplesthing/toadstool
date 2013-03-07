@@ -3,6 +3,8 @@
 
 // -----------------------------------------
 
+//colors are cutom for login demo
+//will be removed later
 %login-grad {
 	@include filter-gradient( #211D1D, #6D6D70, vertical); //IE6-9
 	@include background-image(linear-gradient(top, #211D1D 0%, #6D6D70 100%));
