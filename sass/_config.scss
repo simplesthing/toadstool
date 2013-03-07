@@ -42,13 +42,43 @@ $heading_4: 16;
 // Using Toadstool, all you need to do is edit these 6 hex values and everything else is created
 // by magic, unicorns and fairy dust!
 
-$alpha_primary:   rgb(255, 0 ,0);        // red
-$bravo_primary:   rgb(105, 161, 6);        // green
-// $charlie_primary: #fffedf;        // yellow
-// $delta_primary:   #2a2c31;        // blue
-// $echo_primary:    #dfba69;        // accent
+// These colors are being adpated form color palette 
+//provided by Robin:
+//$daptiv-red: #A90022;
+//$daptiv-gray: #424B42;
+//$daptiv-orange: #D73F00;
+//$daptiv-brown: #322500;
+//$daptiv-blue: #00478B;
+//$daptiv-green: #1D6B0A;
+//$daptiv-yellow: #EFB300;
 
-$alpha_gray:      #231F20;           //black
+//$chart-red: mix( $daptiv-red, white, 60% );
+//$chart-gray: mix( $daptiv-gray, white, 60% );
+//$chart-orange: mix( $daptiv-orange, white, 60% );
+//$chart-brown: mix( $daptiv-brown, white, 60% );
+//$chart-blue: mix( $daptiv-blue, white, 60% );
+//$chart-green: mix( $daptiv-green, white, 60% );
+//$chart-yellow: mix( $daptiv-yellow, white, 60% );
+
+//$line-red: mix( $daptiv-red, white, 80% );
+//$line-gray: mix( $daptiv-gray, white, 80% );
+//$line-orange: mix( $daptiv-orange, white, 80% );
+//$line-brown: mix( $daptiv-brown, white, 80% );
+//$line-blue: mix( $daptiv-blue, white, 80% );
+//$line-green: mix( $daptiv-green, white, 80% );
+//$line-yellow: mix( $daptiv-yellow, white, 80% ); 
+
+$alpha_primary:   #A90022;       // red
+$bravo_primary:   #1D6B0A;       // green
+$charlie_primary: #EFB300;;      // yellow
+$delta_primary:   #00478B;       // blue
+$echo_primary:    #D73F00;       // orange
+$fox_primary: 	  #322500;		 // brown
+$hotel_primary:   #424B42;       //custom gray
+$india_primary:   #231F20;    	 //custom to match logo for demo
+
+$alpha_gray:      #000;           //black 
+
 
 /////// Toadstool color math /////// 
 // -----------------------------------------------------------------------------

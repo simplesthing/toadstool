@@ -55,6 +55,17 @@ $echo_color_hotel:scale-color($echo_color,$lightness:70%);
 $echo_color_india:scale-color($echo_color,$lightness:80%);
 $echo_color_juliet:scale-color($echo_color,$lightness:90%);
 
+$fox_color:$fox_primary;
+$fox_color_bravo:scale-color($fox_color,$lightness:10%);
+$fox_color_charlie:scale-color($fox_color,$lightness:20%);
+$fox_color_delta:scale-color($fox_color,$lightness:30%);
+$fox_color_echo:scale-color($fox_color,$lightness:40%);
+$fox_color_fox:scale-color($fox_color,$lightness:50%);
+$fox_color_golf:scale-color($fox_color,$lightness:60%);
+$fox_color_hotel:scale-color($fox_color,$lightness:70%);
+$fox_color_india:scale-color($fox_color,$lightness:80%);
+$fox_color_juliet:scale-color($fox_color,$lightness:90%);
+
 
 
 

@@ -71,6 +71,13 @@ $color_var: $echo_color $echo_color_bravo $echo_color_charlie $echo_color_delta 
 
 @include name_color_loop;		
 
+// Fox color objects
+// ----------------------------------------------
+$color_names: fox_color fox_color_bravo fox_color_charlie fox_color_delta fox_color_echo fox_color_fox fox_color_golf fox_color_hotel fox_color_india fox_color_juliet;
+$color_var: $fox_color $fox_color_bravo $fox_color_charlie $fox_color_delta $fox_color_echo $fox_color_fox $fox_color_golf $fox_color_hotel $fox_color_india $fox_color_juliet;
+
+@include name_color_loop;	
+
 
 /////// semantic color blocks ////////
 // ----------------------------------------------

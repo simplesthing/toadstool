@@ -12,3 +12,33 @@
 // ------------------------------------------------------------------------------
 
 
+.fox_color {
+	@extend %fox_color;
+}
+.fox_color_bravo {
+	@extend %fox_color_bravo;
+}
+.fox_color_charlie {
+	@extend %fox_color_charlie;
+}
+.fox_color_delta {
+	@extend %fox_color_delta;
+}
+.fox_color_echo {
+	@extend %fox_color_echo;
+}
+.fox_color_fox {
+	@extend %fox_color_fox;
+}
+.fox_color_golf {
+	@extend %fox_color_golf;
+}
+.fox_color_hotel {
+	@extend %fox_color_hotel;
+}
+.fox_color_india {
+	@extend %fox_color_india;
+}
+.fox_color_juliet {
+	@extend %fox_color_juliet;
+}

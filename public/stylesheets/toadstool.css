@@ -1436,275 +1436,315 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000330}}
 .alpha_gray {
-  background: #231f20; }
+  background: black; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000330}}
 .bravo_gray {
-  background: #3b3436; }
+  background: #1a1a1a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000330}}
 .charlie_gray {
-  background: #52494b; }
+  background: #333333; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000330}}
 .delta_gray {
-  background: #6a5e61; }
+  background: #4d4d4d; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000330}}
 .echo_gray {
-  background: #817276; }
+  background: #666666; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000330}}
 .fox_gray {
-  background: #97898d; }
+  background: gray; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000330}}
 .golf_gray {
-  background: #aca1a4; }
+  background: #999999; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000330}}
 .hotel_gray {
-  background: #c0b8ba; }
+  background: #b3b3b3; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000330}}
 .india_gray {
-  background: #d5d0d1; }
+  background: #cccccc; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_gray {
-  background: #231f20; }
+  background: black; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_gray {
-  background: #3b3436; }
+  background: #1a1a1a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_gray {
-  background: #52494b; }
+  background: #333333; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_gray {
-  background: #6a5e61; }
+  background: #4d4d4d; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_gray {
-  background: #817276; }
+  background: #666666; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .fox_gray {
-  background: #97898d; }
+  background: gray; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .golf_gray {
-  background: #aca1a4; }
+  background: #999999; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .hotel_gray {
-  background: #c0b8ba; }
+  background: #b3b3b3; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .india_gray {
-  background: #d5d0d1; }
+  background: #cccccc; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_color {
-  background: red; }
+  background: #a90022; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_color_bravo {
-  background: #ff1a1a; }
+  background: #cb0029; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_color_charlie {
-  background: #ff3333; }
+  background: #ed0030; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_color_delta {
-  background: #ff4d4d; }
+  background: #ff1040; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_color_echo {
-  background: #ff6666; }
+  background: #ff325c; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_color_fox {
-  background: #ff8080; }
+  background: #ff5577; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_color_golf {
-  background: #ff9999; }
+  background: #ff7792; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_color_hotel {
-  background: #ffb3b3; }
+  background: #ff99ad; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_color_india {
-  background: #ffcccc; }
+  background: #ffbbc9; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alpha_color_juliet {
-  background: #ffe5e5; }
+  background: #ffdde4; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_color {
-  background: #69a106; }
+  background: #1d6b0a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_color_bravo {
-  background: #7fc207; }
+  background: #278f0d; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_color_charlie {
-  background: #94e308; }
+  background: #30b311; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_color_delta {
-  background: #a6f618; }
+  background: #3ad714; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_color_echo {
-  background: #b3f839; }
+  background: #4eeb27; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_color_fox {
-  background: #bff95a; }
+  background: #6bee4b; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_color_golf {
-  background: #ccfa7b; }
+  background: #89f26f; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_color_hotel {
-  background: #d9fb9c; }
+  background: #a6f593; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_color_india {
-  background: #e6fdbd; }
+  background: #c4f8b7; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .bravo_color_juliet {
-  background: #f2fede; }
+  background: #e1fcdb; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_color {
-  background: #facb47; }
+  background: #efb300; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_color_bravo {
-  background: #fbd059; }
+  background: #ffc20b; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_color_charlie {
-  background: #fbd56c; }
+  background: #ffc926; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_color_delta {
-  background: #fcdb7e; }
+  background: #ffcf41; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_color_echo {
-  background: #fce091; }
+  background: #ffd65c; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_color_fox {
-  background: #fde5a3; }
+  background: #ffdd78; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_color_golf {
-  background: #fdeab5; }
+  background: #ffe493; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_color_hotel {
-  background: #fdefc8; }
+  background: #ffebae; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_color_india {
-  background: #fef5da; }
+  background: #fff1c9; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .charlie_color_juliet {
-  background: #fefaed; }
+  background: #fff8e4; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_color {
-  background: #aad1d8; }
+  background: #00478b; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_color_bravo {
-  background: #b3d6dc; }
+  background: #005ab0; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_color_charlie {
-  background: #bbdae0; }
+  background: #006dd5; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_color_delta {
-  background: #c4dfe4; }
+  background: #0080fa; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_color_echo {
-  background: #cce3e8; }
+  background: #2092ff; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_color_fox {
-  background: #d5e8eb; }
+  background: #45a4ff; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_color_golf {
-  background: #ddedef; }
+  background: #6bb6ff; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_color_hotel {
-  background: #e5f1f3; }
+  background: #90c9ff; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_color_india {
-  background: #eef6f7; }
+  background: #b5dbff; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .delta_color_juliet {
-  background: #f6fafb; }
+  background: #daedff; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_color {
-  background: #dfba69; }
+  background: #d73f00; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_color_bravo {
-  background: #e2c178; }
+  background: #f44800; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_color_charlie {
-  background: #e5c887; }
+  background: #ff5813; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_color_delta {
-  background: #e9cf96; }
+  background: #ff6d31; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_color_echo {
-  background: #ecd6a5; }
+  background: #ff824e; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_color_fox {
-  background: #efdcb4; }
+  background: #ff976c; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_color_golf {
-  background: #f2e3c3; }
+  background: #ffac89; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_color_hotel {
-  background: #f5ead2; }
+  background: #ffc0a6; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_color_india {
-  background: #f9f1e1; }
+  background: #ffd5c4; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .echo_color_juliet {
-  background: #fcf8f0; }
+  background: #ffeae2; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
+.fox_color {
+  background: #322500; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
+.fox_color_bravo {
+  background: #604700; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
+.fox_color_charlie {
+  background: #8e6900; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
+.fox_color_delta {
+  background: #bc8b00; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
+.fox_color_echo {
+  background: #eaad00; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
+.fox_color_fox {
+  background: #ffc319; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
+.fox_color_golf {
+  background: #ffcf47; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
+.fox_color_hotel {
+  background: #ffdb75; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
+.fox_color_india {
+  background: #ffe7a3; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
+.fox_color_juliet {
+  background: #fff3d1; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .white {
@@ -1712,55 +1752,55 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .shadow_color {
-  background: rgba(35, 31, 32, 0.5); }
+  background: rgba(0, 0, 0, 0.5); }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .primary_header_color {
-  background: #231f20; }
+  background: black; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .primary_text {
-  background: #3b3436; }
+  background: #1a1a1a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .secondary_text {
-  background: #3b3436; }
+  background: #1a1a1a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .href_color {
-  background: #69a106; }
+  background: #1d6b0a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .ins_color {
-  background: #facb47; }
+  background: #efb300; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .mark_color {
-  background: #facb47; }
+  background: #efb300; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .webkit_tap_hightlight {
-  background: #b3d6dc; }
+  background: #005ab0; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .selection_color {
-  background: white; }
+  background: #ffa9ba; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .selection_text_color {
-  background: #3b3436; }
+  background: #1a1a1a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .border_color {
-  background: #52494b; }
+  background: #333333; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .primary_button_border_color {
-  background: #69a106; }
+  background: #1d6b0a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .secondary_button_border_color {
-  background: #3b3436; }
+  background: #1a1a1a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .button_text {
@@ -1768,31 +1808,31 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .standard_hr_color {
-  background: #6a5e61; }
+  background: #4d4d4d; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .standard_border_color {
-  background: #52494b; }
+  background: #333333; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alert_background_color {
-  background: red; }
+  background: #a90022; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .input_disabled {
-  background: #3b3436; }
+  background: #1a1a1a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .input_disabled_bkg {
-  background: #f7f6f6; }
+  background: #d9d9d9; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .input_disabled_border {
-  background: #bbb2b5; }
+  background: #999999; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .input_disabled_text {
-  background: #bbb2b5; }
+  background: #999999; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_field_background_color {
@@ -1804,43 +1844,43 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_field_fail_bkg {
-  background: #ffe5e5; }
+  background: #ffdde4; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_field_border {
-  background: #52494b; }
+  background: #333333; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_field_border_fail {
-  background: #ff6666; }
+  background: #ff325c; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_field_focus_border_color {
-  background: #52494b; }
+  background: #333333; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_field_text_fail {
-  background: #ff6666; }
+  background: #ff325c; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_label_color {
-  background: #6a5e61; }
+  background: #4d4d4d; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .optional_field_text_color {
-  background: #6a5e61; }
+  background: #4d4d4d; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .instructional_text {
-  background: #52494b; }
+  background: #333333; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .placeholder_text {
-  background: #c0b8ba; }
+  background: #b3b3b3; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .inline_alert_bkg_color {
-  background: #ff4d4d; }
+  background: #ff1040; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .inline_alert_text_color {
@@ -1848,15 +1888,15 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .button_color {
-  background: #d5d0d1; }
+  background: #cccccc; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .primary_button_border_color {
-  background: #69a106; }
+  background: #1d6b0a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .secondary_button_border_color {
-  background: #3b3436; }
+  background: #1a1a1a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .button_text {
