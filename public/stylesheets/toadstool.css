@@ -1756,11 +1756,11 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .primary_header_color {
-  background: black; }
+  background: #424b42; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .primary_text {
-  background: #1a1a1a; }
+  background: black; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .secondary_text {
@@ -1792,7 +1792,7 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .border_color {
-  background: #333333; }
+  background: #899789; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .primary_button_border_color {
@@ -1808,11 +1808,11 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .standard_hr_color {
-  background: #4d4d4d; }
+  background: #278f0d; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .standard_border_color {
-  background: #333333; }
+  background: #c4cbc4; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .alert_background_color {
@@ -1852,7 +1852,7 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_field_border_fail {
-  background: #ff325c; }
+  background: #cb0029; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_field_focus_border_color {
@@ -1860,7 +1860,7 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_field_text_fail {
-  background: #ff325c; }
+  background: #cb0029; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .form_label_color {
@@ -1880,7 +1880,7 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .inline_alert_bkg_color {
-  background: #ff1040; }
+  background: #a90022; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .inline_alert_text_color {
@@ -1901,3 +1901,7 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/color\/_extends\.scss}line{font-family:\0000311}}
 .button_text {
   background: white; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/toadstool\.scss}line{font-family:\0000346}}
+.inverse_text {
+  background: #f9f9f9; }

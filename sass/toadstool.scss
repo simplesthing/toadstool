@@ -42,3 +42,7 @@
 .fox_color_juliet {
 	@extend %fox_color_juliet;
 }
+
+.inverse_text {
+	background:$inverse_text;
+}

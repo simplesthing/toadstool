@@ -109,14 +109,15 @@ $alpha_gray:      #000000;           //black
 // $white:                                #fff;
 
 // primary header font color
-$primary_header_color:                 $alpha_gray;
+$primary_header_color:                 $fox_color;
 
 // default heading font weight
 // $heading_font_weight:                  normal;
 
 // primary font color for the app
-// $primary_text:                         $bravo_gray;
-$secondary_text:                       $delta_gray;
+$primary_text:          $alpha_gray;
+$secondary_text:        $delta_gray;
+$inverse_text: 			mix($fox_color_juliet, $white, 30%);
 
 // default `href` link color
 $href_color:                           $bravo_color;
@@ -126,7 +127,7 @@ $href_color_alt:                       $charlie_gray;
 // $shadow_color:                         fade-out($alpha_gray, 0.5);
 
 // default border color
-// $border_color:                         $charlie_gray;
+$border_color:                         $fox_color_echo;
 
 
 
@@ -163,15 +164,15 @@ $href_color_alt:                       $charlie_gray;
 // $form_field_fail_bkg:           $alpha_color_juliet;
                                 
 // $form_field_border:             $charlie_gray;
-// $form_field_border_fail:        $alpha_color_echo;
+$form_field_border_fail:        $alpha_color_bravo;
 // $form_field_focus_border_color: $charlie_gray;
 
-// $form_field_text_fail:          $alpha_color_echo;
+$form_field_text_fail:          $alpha_color_bravo;
 $form_label_color:              $delta_gray;
 // $optional_field_text_color:     $delta_gray;
 // $instructional_text:            $charlie_gray;
 // $placeholder_text:              $hotel_gray;
-// $inline_alert_bkg_color:        $alpha_color_delta;
+$inline_alert_bkg_color:        $alpha_color;
 // $inline_alert_text_color:       $white;
 
 // Non-color defaults (currently not represented in the SG view)
@@ -206,7 +207,7 @@ $button-font-size: 12;
 // -----------------------------------------------------------------------------
 // $standard_round_corner:                3;                // sets default border radius
 // $standard_corner_width:                1px;              // sets default border width
-// $standard_border_color:                $border_color;    // sets default border color
+$standard_border_color:                $fox_color_hotel;    // sets default border color
 
 /////// Config defaults for ``standard_block_spacing`` mixin /////// 
 // -----------------------------------------------------------------------------
@@ -219,7 +220,7 @@ $button-font-size: 12;
 /////// Config defaults for ``standard_hr`` mixin /////// 
 // -----------------------------------------------------------------------------
 // $standard_hr_spacing:                  40;               // sets padding and margin bottom
-// $standard_hr_color:                    $delta_gray;
+$standard_hr_color:                    $bravo_color_bravo;
 // $standard_hr_width:                    1px;
 
 /////// Config values for all default shadows /////// 

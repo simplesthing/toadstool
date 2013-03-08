@@ -81,8 +81,8 @@ $color_var: $fox_color $fox_color_bravo $fox_color_charlie $fox_color_delta $fox
 
 /////// semantic color blocks ////////
 // ----------------------------------------------
-$color_names: 'white' shadow_color primary_header_color heading_font_weight primary_text secondary_text href_color ins_color mark_color webkit_tap_hightlight selection_color selection_text_color border_color primary_button_border_color secondary_button_border_color button_text standard_hr_color standard_border_color;
-$color_var: $white $shadow_color $primary_header_color $heading_font_weight $primary_text $secondary_text $href_color $ins_color $mark_color $webkit_tap_hightlight $selection_color $selection_text_color $border_color $primary_button_border_color $secondary_button_border_color $button_text $standard_hr_color $standard_border_color; 
+$color_names: 'white' shadow_color primary_header_color heading_font_weight primary_text secondary_text inverse_text href_color ins_color mark_color webkit_tap_hightlight selection_color selection_text_color border_color primary_button_border_color secondary_button_border_color button_text standard_hr_color standard_border_color;
+$color_var: $white $shadow_color $primary_header_color $heading_font_weight $primary_text $secondary_text $inverse_text $href_color $ins_color $mark_color $webkit_tap_hightlight $selection_color $selection_text_color $border_color $primary_button_border_color $secondary_button_border_color $button_text $standard_hr_color $standard_border_color; 
 
 @include name_color_loop;
 
