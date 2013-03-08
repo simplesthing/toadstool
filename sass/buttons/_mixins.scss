@@ -1,2 +1,40 @@
 // Use this to build custom extends for your project
 // -----------------------------------------------------------------------
+
+
+@mixin flat-daptiv ($button-text-color: $alpha_gray,  $color: $button-color ){
+  $base-color: $color;
+  $grad-1: darken($base-color, 8%);
+  $dark-color: darken($base-color, 15%);
+  $highlight-color: lighten($base-color, 50%);
+
+  background-color: $base-color;
+  @include filter-gradient($base-color, $base-color, vertical); // IE6-9
+  @include background-image(linear-gradient(top, $base-color 0%,$base-color 75%));
+
+  border: 1px solid $dark-color;
+
+  @include button-default;
+  
+  border-radius:2px;
+  color: $button-text-color;
+
+  &:hover {
+    background-color: $base-color;
+    @include filter-gradient( $base-color, $grad-1, vertical); // IE6-9
+    @include background-image(linear-gradient(top, $base-color 50%, $grad-1 75%));
+  }
+
+  @media #{$mobile} {
+    width: 100%;
+  }
+
+  object {
+  	height:19px;
+  	margin-top:8px;
+  	width:19px;
+  }
+
+}
+
+

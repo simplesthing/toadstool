@@ -7,6 +7,7 @@
 
 body.login {
 	background: #6d6d70;
+	font-family:Arial, Verdana;
 }
 
 //holds the background gradient, not the best way just left as is for now
@@ -30,3 +31,4 @@ body.login {
 	@extend %footer-grad;
 	@extend %footer;
 }
+

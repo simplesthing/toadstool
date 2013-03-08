@@ -1,3 +1,21 @@
 // Use this to build custom extends for your project
 // -----------------------------------------------------------------------
 
+
+%button-delta {
+	@include flat-daptiv($white, $delta_color_echo);
+}
+
+%button-echo {
+	@include flat-daptiv($white, $echo_color_charlie);
+}
+
+%button-light-gray {
+	@include flat-daptiv($fox_color, $fox_color_juliet);
+}
+
+%button-dark-gray {
+	@include flat-daptiv($fox_color_juliet, $fox_color_bravo);
+}
+
+

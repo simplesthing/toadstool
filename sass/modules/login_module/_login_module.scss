@@ -15,12 +15,12 @@
 		@extend %headings_4
 	}
 
-	ul li {
+	li {
 		margin:8px 0;
 		width:330px;
 	}
 
-	li.remember-me {
+	.remember-me {
 		margin-top:18px;
 	
 		label {
@@ -30,13 +30,17 @@
 		}	
 	}
 
-	li.login-forgot-password {
+	.login-forgot-password {
 		margin-top:18px;
 	
 		a {
 			font-size:12px;
 			float:right;
 		}
+	}
+
+	button {
+		@include gloss_default;
 	}
 }
 
@@ -56,8 +60,10 @@
 		width:100%;
 	}
 
-	ul	{
+	li	{
 		@include strong($alpha_primary, 1.5em);
 		padding: 14px 0;
 	}
+
+
 }

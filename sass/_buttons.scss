@@ -19,19 +19,20 @@
 
 // buttons
 // --------------------------------------------------------------------
+
 button, a.button {
-  @include gloss-default;
-  &:nth-child(2) {
-    @include shiny-default;
-  }
-  &:nth-child(3) {
-    @include flat-default;
-  }
-  &:nth-child(4) {
-    @include three-dee;
-  }
+  @extend %button-delta;
+    &:nth-child(2) {
+      @extend %button-echo;
+    }
+    &:nth-child(3) {
+      @extend %button-light-gray;
+    }
+    &:nth-child(4) {
+     @extend %button-light-gray;
+    }
   margin-left: 1em;
   &:nth-child(1) {
     margin-left: 0;
-  }
+}
 }
