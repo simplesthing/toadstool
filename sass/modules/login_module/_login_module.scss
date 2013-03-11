@@ -17,7 +17,7 @@
 
 	li {
 		margin:8px 0;
-		width:330px;
+		width:300px;
 	}
 
 	.remember-me {
@@ -62,7 +62,7 @@
 
 	li	{
 		@include strong($alpha_primary, 1.5em);
-		padding: 14px 0;
+		padding: 8px 0;
 	}
 
 

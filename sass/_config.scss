@@ -120,7 +120,7 @@ $secondary_text:        $delta_gray;
 $inverse_text: 			mix($fox_color_juliet, $white, 30%);
 
 // default `href` link color
-$href_color:                           $bravo_color;
+$href_color:                           $fox_color_echo;
 $href_color_alt:                       $charlie_gray;
 
 // default shadow colors
@@ -196,7 +196,7 @@ $form_label_lineheight:         26;
 $button-color:  $india_gray;
 $button-text-color: $alpha_gray;
 // $button-line-height: 32;
-$button-border-radius: 5;
+$button-border-radius: 2;
 // $button-padding: 20;
 $button-font-size: 12;
 // $button-weight: bold;
@@ -254,3 +254,6 @@ $standard_hr_color:                    $bravo_color_bravo;
 // $moz_webkit_support: -moz- -webkit- '';
 // $moz_ms_support: -moz- -ms- '';
 // $webkit_ms_support: -webkit- -ms- '';
+
+/////// navigation /////// 
+// -----------------------------------------------------------------------------

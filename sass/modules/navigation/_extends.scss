@@ -1,0 +1,32 @@
+%top_level_nav{
+	@include clearfix;
+	background:$bravo_color;
+	padding-left:10px;
+	ul {
+		background: $fox_color_charlie;
+		float:left;
+		width:100%;
+		li {
+			background: $bravo_color;
+			float:left;
+			list-style:none;
+
+			a:link, a:visited {
+				background:$fox_color_charlie;
+				color:$fox_color_india;
+				display:inline-block;
+				padding:10px 20px;
+				text-decoration:none;
+			}
+			a:hover, a:active {
+				background: $fox_color_india;
+				color:$fox_color;
+				display:inline-block;
+				margin-top:3px;
+				padding: 7px 20px 10px 20px;
+				text-decoration:none;
+			}
+		}
+	}	
+
+}

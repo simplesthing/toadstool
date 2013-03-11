@@ -1,0 +1,10 @@
+// Import custom extends and mixins
+// -----------------------------------------------------------------------
+@import "modules/navigation/*";
+
+// Your styles
+// -----------------------------------------------------------------------
+
+nav.top-level-nav {
+	@extend %top_level_nav;
+}
