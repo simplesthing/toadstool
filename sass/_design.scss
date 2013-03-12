@@ -4,31 +4,3 @@
 
 
 ///////// global //////////
-
-body.login {
-	background: #6d6d70;
-	font-family:Arial, Verdana;
-}
-
-//holds the background gradient, not the best way just left as is for now
-//while trying to use stipe's background-image with linear gradient mixin
-//to apply to document body and delete the container wrapper all together
-
-#container {
-	@extend %login-grad;
-}
-
-#header {
-	@extend %header;
-}
-
-#content {
-	@extend %content-login;
-}
-
-
-#footer {
-	@extend %footer-grad;
-	@extend %footer;
-}
-
