@@ -89,7 +89,7 @@ $alpha_gray:      #000000;           //black
 /////// Grid configuration /////// 
 // -----------------------------------------------------------------------------
 // setting default units of measurement for Toadstool grid solution
-// $grid_type:                  12;             // sets default column grid
+// $grid_type:                  12.25;             // sets default column grid
 // $grid_uom:                   percent;        // use either ``em`` or ``percent``
 // $grid_padding_l:             0;              // sets default left/right padding inside grid block
 // $grid_padding_r:             0;              // sets default left/right padding inside grid block
@@ -100,6 +100,7 @@ $alpha_gray:      #000000;           //black
 // $col_base:                   10;             // equal to 10px in the standard 960.gs
 // $col_gutter:                 $col_base * 2;  // sets default grid gutter width                            
 // $grid_960:                   960 / 100%;     // grid math for percentages
+
 
 /////// Toadstool's semantic variables /////// 
 // Semantic variables should always be matched up with abstract values, never semantic to semantic
