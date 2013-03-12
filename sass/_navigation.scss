@@ -5,9 +5,9 @@
 // Your styles
 // -----------------------------------------------------------------------
 
-#top-nav {
-	@extend %top_level_nav;
-	@extend %drop_down_nav;
-	@include clearfix;	
+#global-nav {
+	@extend %navbar;
+	@extend %nav-tabs;
+	@extend %dropdown-menu;
 }
 

@@ -1,16 +1,23 @@
-%top_level_nav {
+%navbar {
+	background: $fox_color_charlie;
+	height:41px;
+	width:100%;
+	
+	ul {
+		@include clearfix;
+		width:100%;
+	}
+}
+
+%nav-tabs {
 
 	li:first-child {
 		border-left:4px solid $bravo_color;
 	}
-
-	ul {
-		@include clearfix;
-		float:left;
-	}	
 	
 	li {
-		background: $fox_color_charlie;
+		background: $bravo_color;
+		@include clearfix;
 		float:left;
 		list-style:none;
 	}
@@ -26,18 +33,20 @@
 	a:hover, a:active {
 		background: $fox_color_india;
 		color:$fox_color;
-		display:block;
-		margin-top:3px;
-		padding: 7px 20px 10px 20px;
-		text-decoration:none;
+		margin-top: 3px;
+		padding:10px 20px 7px 20px;
 	}
 }
 
-%drop_down_nav {
+%dropdown-menu {
 
-	.drop-down-nav li{
+	.dropdown-menu li{
 		border: none;
 		float:none;
+
+		a:hover, a:active {
+			padding:10px 20px;
+			margin:0;
+		}
 	}
 }
-

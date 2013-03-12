@@ -1,5 +1,5 @@
-<nav id="top-nav">
-	<ul class="top-level-nav">
+<nav id="global-nav" class="navbar">
+	<ul class="nav-tabs">
 		  <li>
             <a href="#/dashboard">Dashboard</a>
         </li>
@@ -15,11 +15,20 @@
         <li>
             <a href="#/timesheets">Timesheets</a>
         </li>
-		<li>
+		<li class="dropdown-menu">
 			<a href="#">More</a>
-			<ul class="drop-down-nav">
+			<ul>
 				<li><a href="#">Calendar</a></li>
-				<li><a href="#">Contacts</a></li>
+                <li><a href="#">Contacts</a>
+				<!--li class="dropdown-submenu"><a href="#">Contacts</a>
+                    <ul>
+                        <li><a href="#">John Doe</a></li>
+                        <li><a href="#">John Doe</a></li>
+                        <li><a href="#">John Doe</a></li>
+                        <li><a href="#">John Doe</a></li>
+                        <li><a href="#">John Doe</a></li>
+                    </ul>   
+                </li  Taking this out for now until we have a use case for a flyout menu -->
 				<li><a href="#">Approvals</a></li>
 			</ul>
 		</li>
