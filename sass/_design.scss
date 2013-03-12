@@ -1,6 +1,14 @@
 // Grid background for column view
 // @import "stipe/grid/debug";
 
-
-
 ///////// global //////////
+
+.app-container {
+	@include full_width_block(12);
+
+	.daptiv-header {
+		@include grid(12.25, alphaomega, $grid_align: center);
+	}
+
+	
+}
