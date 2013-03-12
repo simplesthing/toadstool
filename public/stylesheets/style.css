@@ -440,49 +440,68 @@ body.login {
   background: #6d6d70;
   font-family: Arial, Verdana; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000031}}
-nav.top-level-nav {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000033}}
+#top-nav li:first-child {
+  border-left: 4px solid #1d6b0a; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000037}}
+#top-nav ul {
   zoom: 1;
-  background: #1d6b0a;
-  padding-left: 10px; }
+  float: left; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003271}}
-  nav.top-level-nav:before {
+  #top-nav ul:before {
     content: "\0020";
     display: block;
     height: 0;
     overflow: hidden; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003277}}
-  nav.top-level-nav:after {
+  #top-nav ul:after {
     content: "\0020";
     display: block;
     height: 0;
     overflow: hidden;
     clear: both; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000035}}
-  nav.top-level-nav ul {
-    background: #657265;
-    float: left;
-    width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000039}}
-    nav.top-level-nav ul li {
-      background: #1d6b0a;
-      float: left;
-      list-style: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000314}}
-      nav.top-level-nav ul li a:link, nav.top-level-nav ul li a:visited {
-        background: #657265;
-        color: #d8dcd8;
-        display: inline-block;
-        padding: 10px 20px;
-        text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000321}}
-      nav.top-level-nav ul li a:hover, nav.top-level-nav ul li a:active {
-        background: #d8dcd8;
-        color: #424b42;
-        display: inline-block;
-        margin-top: 3px;
-        padding: 7px 20px 10px 20px;
-        text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000312}}
+#top-nav li {
+  background: #657265;
+  float: left;
+  list-style: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000318}}
+#top-nav a:link, #top-nav a:visited {
+  background: #657265;
+  color: #d8dcd8;
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000326}}
+#top-nav a:hover, #top-nav a:active {
+  background: #d8dcd8;
+  color: #424b42;
+  display: block;
+  margin-top: 3px;
+  padding: 7px 20px 10px 20px;
+  text-decoration: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000338}}
+#top-nav .drop-down-nav li {
+  border: none;
+  float: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\000038}}
+#top-nav {
+  zoom: 1; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003271}}
+  #top-nav:before {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003277}}
+  #top-nav:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden;
+    clear: both; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/ui_patterns\/backgrounds\/_background_pattern\.scss}line{font-family:\000038}}
 #container {
@@ -660,46 +679,48 @@ nav.top-level-nav {
     font-weight: bold;
     padding: 8px 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000031}}
-nav.top-level-nav {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000033}}
+#top-nav li:first-child {
+  border-left: 4px solid #1d6b0a; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000037}}
+#top-nav ul {
   zoom: 1;
-  background: #1d6b0a;
-  padding-left: 10px; }
+  float: left; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003271}}
-  nav.top-level-nav:before {
+  #top-nav ul:before {
     content: "\0020";
     display: block;
     height: 0;
     overflow: hidden; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003277}}
-  nav.top-level-nav:after {
+  #top-nav ul:after {
     content: "\0020";
     display: block;
     height: 0;
     overflow: hidden;
     clear: both; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000035}}
-  nav.top-level-nav ul {
-    background: #657265;
-    float: left;
-    width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000039}}
-    nav.top-level-nav ul li {
-      background: #1d6b0a;
-      float: left;
-      list-style: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000314}}
-      nav.top-level-nav ul li a:link, nav.top-level-nav ul li a:visited {
-        background: #657265;
-        color: #d8dcd8;
-        display: inline-block;
-        padding: 10px 20px;
-        text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000321}}
-      nav.top-level-nav ul li a:hover, nav.top-level-nav ul li a:active {
-        background: #d8dcd8;
-        color: #424b42;
-        display: inline-block;
-        margin-top: 3px;
-        padding: 7px 20px 10px 20px;
-        text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000312}}
+#top-nav li {
+  background: #657265;
+  float: left;
+  list-style: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000318}}
+#top-nav a:link, #top-nav a:visited {
+  background: #657265;
+  color: #d8dcd8;
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000326}}
+#top-nav a:hover, #top-nav a:active {
+  background: #d8dcd8;
+  color: #424b42;
+  display: block;
+  margin-top: 3px;
+  padding: 7px 20px 10px 20px;
+  text-decoration: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000338}}
+#top-nav .drop-down-nav li {
+  border: none;
+  float: none; }
