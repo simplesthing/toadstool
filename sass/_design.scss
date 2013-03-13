@@ -3,12 +3,8 @@
 
 ///////// global //////////
 
-.app-container {
-	@include full_width_block(12);
-
-	.daptiv-header {
-		@include grid(12.25, alphaomega, $grid_align: center);
-	}
-
-	
+section {
+	@include clearfix;
+	@include grid(12.25, alphaomega, $grid_align: center);	
 }
+

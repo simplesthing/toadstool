@@ -1,11 +1,12 @@
 %navbar {
+
 	background: $fox_color_charlie;
 	height:41px;
-	width:100%;
-	
+
 	ul {
-		@include clearfix;
-		width:100%;
+		display:block;
+		width: 975px;
+		clear:both;
 	}
 }
 
@@ -17,8 +18,7 @@
 	
 	li {
 		background: $bravo_color;
-		@include clearfix;
-		float:left;
+		display:inline-block;
 		list-style:none;
 	}
 
@@ -33,17 +33,32 @@
 	a:hover, a:active {
 		background: $fox_color_india;
 		color:$fox_color;
-		margin-top: 3px;
-		padding:10px 20px 7px 20px;
 	}
 }
 
 %dropdown-menu {
 
+	li.dropdown-menu {
+		display:inline-block;
+		position:relative;
+	}
+
+	.dropdown-caret {
+		position:absolute;
+		top:20px;
+		right:5px;
+		@extend %dropdown-caret;
+	}
+
+	.dropdown-menu ul {
+		display:none;
+		position:absolute;
+		width: auto;
+		z-index: 999999;
+	}
 	.dropdown-menu li{
 		border: none;
-		float:none;
-
+		width:100%;
 		a:hover, a:active {
 			padding:10px 20px;
 			margin:0;
