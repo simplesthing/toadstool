@@ -461,54 +461,53 @@ section {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000031}}
 #global-nav {
-  background: #657265;
-  height: 41px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000036}}
+  background: #657265; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000034}}
   #global-nav ul {
     display: block;
     width: 975px;
     clear: both; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000312}}
 #global-nav li:first-child {
   border-left: 4px solid #1d6b0a; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000316}}
 #global-nav li {
   background: #1d6b0a;
   display: inline-block;
   list-style: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000322}}
 #global-nav a:link, #global-nav a:visited {
   background: #657265;
   color: #d8dcd8;
   display: block;
   padding: 10px 20px;
   text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000330}}
 #global-nav a:hover, #global-nav a:active {
   background: #d8dcd8;
   color: #424b42; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000338}}
 #global-nav li.dropdown-menu {
   display: inline-block;
   position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000343}}
 #global-nav .dropdown-caret {
   position: absolute;
   top: 20px;
   right: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000350}}
 #global-nav .dropdown-menu ul {
   display: none;
   position: absolute;
   width: auto;
   z-index: 999999; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000356}}
 #global-nav .dropdown-menu li {
   border: none;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000362}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000359}}
   #global-nav .dropdown-menu li a:hover, #global-nav .dropdown-menu li a:active {
     padding: 10px 20px;
     margin: 0; }
@@ -616,54 +615,53 @@ section {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000031}}
 #global-nav {
-  background: #657265;
-  height: 41px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000036}}
+  background: #657265; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\000034}}
   #global-nav ul {
     display: block;
     width: 975px;
     clear: both; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000312}}
 #global-nav li:first-child {
   border-left: 4px solid #1d6b0a; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000316}}
 #global-nav li {
   background: #1d6b0a;
   display: inline-block;
   list-style: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000322}}
 #global-nav a:link, #global-nav a:visited {
   background: #657265;
   color: #d8dcd8;
   display: block;
   padding: 10px 20px;
   text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000330}}
 #global-nav a:hover, #global-nav a:active {
   background: #d8dcd8;
   color: #424b42; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000338}}
 #global-nav li.dropdown-menu {
   display: inline-block;
   position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000343}}
 #global-nav .dropdown-caret {
   position: absolute;
   top: 20px;
   right: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000350}}
 #global-nav .dropdown-menu ul {
   display: none;
   position: absolute;
   width: auto;
   z-index: 999999; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000356}}
 #global-nav .dropdown-menu li {
   border: none;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000362}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/modules\/navigation\/_extends\.scss}line{font-family:\0000359}}
   #global-nav .dropdown-menu li a:hover, #global-nav .dropdown-menu li a:active {
     padding: 10px 20px;
     margin: 0; }

@@ -1,12 +1,41 @@
-<!doctype html>
-<html>	
+<!DOCTYPE html>
+<html ng-app="ppm">
 <head>
-	<title>Daptiv</title>
-	<link rel="stylesheet" href="stylesheets/style.css"/>
+    <title>Daptiv PPM</title>
+    <link href="stylesheets/style.css" type="text/css" rel="stylesheet">
+    <script src="javascripts/jquery.js"></script>
+    <script src="javascripts/daptiv.js"></script>
 </head>
 <body>
-	<section class="app-container">
-		<header class="daptiv-header"><img src="daptiv_logo.png" alt="Daptiv" /></header>
-	</section>
+    <section>
+        <header>
+            <object type="image/svg+xml" role="icon" data="images/daptiv-twocolor-newgreen.svg" height="40" width="105"></object>
+        </header>
+        <nav ng-controller="NavCtrl" ng-class="controller" id="global-nav" class="navbar ng-scope">
+            <ul>
+                <li ng-repeat="tab in tabs" class="ng-scope">
+                    <a ng-href="#/dashboard" class="ng-binding" href="#/dashboard">Dashboard</a>
+                </li><li ng-repeat="tab in tabs" class="ng-scope">
+                    <a ng-href="#/tasks" class="ng-binding" href="#/tasks">Tasks</a>
+                </li><li ng-repeat="tab in tabs" class="ng-scope">
+                    <a ng-href="#/projects" class="ng-binding" href="#/projects">Projects</a>
+                </li><li ng-repeat="tab in tabs" class="ng-scope">
+                    <a ng-href="#/executive" class="ng-binding" href="#/executive">Executive</a>
+                </li><li ng-repeat="tab in tabs" class="ng-scope">
+                    <a ng-href="#/timesheets" class="ng-binding" href="#/timesheets">Timesheets</a>
+                </li>
+                <li class="dropdown-menu">
+                   <span class="dropdown-caret"></span>
+                   <a href="#">More</a>
+                   <ul style="display: none;">
+                        <li><a href="#">Calendar</a></li>
+                        <li><a href="#">Contacts</a></li>
+                        <li><a href="#">Approvals</a></li>
+                   </ul>
+                </li>
+            </ul>
+        </nav>
+    </section>
+    <section ng-view=""><div class="ng-scope">Executives</div></section>
 </body>
 </html>

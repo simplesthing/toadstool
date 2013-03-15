@@ -1,7 +1,5 @@
 %navbar {
-
 	background: $fox_color_charlie;
-	height:41px;
 
 	ul {
 		display:block;
@@ -11,7 +9,6 @@
 }
 
 %nav-tabs {
-
 	li:first-child {
 		border-left:4px solid $bravo_color;
 	}
@@ -58,7 +55,7 @@
 	}
 	.dropdown-menu li{
 		border: none;
-		width:100%;
+		width: 100%;
 		a:hover, a:active {
 			padding:10px 20px;
 			margin:0;
