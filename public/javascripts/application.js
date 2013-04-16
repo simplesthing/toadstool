@@ -82,4 +82,13 @@ $(document).ready(function() {
     var color = $(BlockColor).css("background-color"); 
     $(BlockColor).children().prepend('<span>' + rgb2hex(color) + '</span>');
   });
+  $('.dropdown-menu a').on("mouseenter", function(){
+    var dropdown = $(this).next('ul');
+    $(dropdown).show();
+    $('li.dropdown-menu').on("mouseleave", function(){
+      dropdown.hide();
+    });
+  });
 });
+
+

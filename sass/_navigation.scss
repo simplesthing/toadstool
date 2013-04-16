@@ -2,15 +2,20 @@
 
 // Import custom extends and mixins
 // -----------------------------------------------------------------------
-@import "modules/navigation/*";
+@import 'navigation/*';
 
 // Your styles
 // -----------------------------------------------------------------------
 
-
 #global-nav {
 	@extend %navbar;
-	@extend %nav-tabs;
 	@extend %dropdown-menu;
+
 }
+
+
+.parent-nav {
+	@extend %nav-tabs;
+}
+
 
