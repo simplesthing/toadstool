@@ -1,0 +1,97 @@
+%navbar {
+	position:relative;
+	width:100%;		
+		background:$fox_color;
+
+	ul {
+		clear:both;
+		display:block;
+	}
+
+	.tab-drag {
+		background: $fox_color_golf;
+		border:dashed 4px $echo_color;
+		display:block;
+		text-align:center;
+		p {
+			color:$fox_color;
+			padding-top:10px;
+		}
+	}
+
+	.tab-drop {
+		background-color: $fox_color_hotel;
+		padding:10px;
+	}
+
+	.tab-placeholder {
+		background: $echo_color;
+		height:auto;
+	}
+}
+
+%nav-tabs {
+	li:first-child {
+		border-left:4px solid $bravo_color;
+	}
+	
+	li {
+		display:inline-block;
+		list-style:none;
+	}
+
+	a:link, a:visited {
+		background:$fox_color;
+		color:$fox_color_juliet;
+		display:block;
+		padding:10px 20px;
+		text-decoration:none;
+	}
+
+	a:hover, a:active {
+		background: $fox_color_golf;
+		color:$fox_color;
+	}
+
+	.active a, a.more-active {
+		background:$fox_color_juliet;
+		border-top:3px solid $bravo_color;
+		color: $fox_color;
+		padding: 7px 20px 10px;
+	}
+}
+
+
+%dropdown-menu {
+
+	.dropdown-menu {
+		background: #fff;
+		display:inline-block;
+		position:relative;
+	}
+
+	.dropdown-caret {
+		@extend %dropdown-caret;
+		position:absolute;
+		right:5px;
+		top:20px;
+	}
+
+	.dropdown-menu ul {
+		display:none;
+		position:absolute;
+		width: auto;
+	}
+
+	.dropdown-menu li{
+		border: none;
+		position:relative;
+		width: 100%;
+
+		a:hover, a:active {
+			margin:0;
+			padding:10px 20px;
+		}
+	}
+	
+}
