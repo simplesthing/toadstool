@@ -8,9 +8,8 @@
 // -----------------------------------------------------------------------
 
 #global-nav {
-	width:500px;
-	height:90px;
-	background:#000;
+	@extend %navbar;
+	@extend %dropdown-menu;
 
 }
 

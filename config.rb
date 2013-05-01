@@ -17,9 +17,9 @@ http_path = "/"
 #  sass_dir = "sass"
 #end
 
-css_dir = "../public/stylesheets"
+css_dir = "public/stylesheets"
 sass_dir = "sass"
-images_dir = "../tarot-IV/public/images"
+images_dir = "images"
 javascripts_dir = "javascripts"
 
 # You can select your preferred output style here (can be overridden via the command line):
