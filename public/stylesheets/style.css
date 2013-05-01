@@ -463,33 +463,90 @@ section {
     clear: both; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\000039}}
+#reading {
+  float: left;
+  margin-left: 1.04167%;
+  margin-right: 1.04167%;
+  width: 22.91667%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000313}}
 #spread {
   float: left;
   margin-left: 1.04167%;
   margin-right: 1.04167%;
-  width: 72.91667%;
+  width: 64.58333%;
   height: 55em;
   display: block;
-  position: relative;
-  background: red; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000315}}
+  position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000318}}
   #spread .deck {
     position: relative;
     top: 0;
     left: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000325}}
 #situation {
   position: relative;
   top: 85px;
   left: 190px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000325}}
-#reading {
-  float: left;
-  margin-left: 1.04167%;
-  margin-right: 1.04167%;
-  width: 14.58333%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000329}}
+#challenge {
+  position: relative;
+  top: -60px;
+  left: 190px;
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000337}}
+#higher-power {
+  position: relative;
+  top: -360px;
+  left: 190px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000341}}
+#foundation {
+  position: relative;
+  top: -190px;
+  left: 190px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000345}}
+#past {
+  position: relative;
+  top: -490px;
+  left: 50px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000349}}
+#future {
+  position: relative;
+  top: -630px;
+  left: 330px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000353}}
+#self {
+  position: relative;
+  top: -530px;
+  left: 440px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000357}}
+#others {
+  position: relative;
+  top: -820px;
+  left: 440px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000361}}
+#hope-fear {
+  position: relative;
+  top: -1110px;
+  left: 440px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000364}}
+#outcome {
+  position: relative;
+  top: -1400px;
+  left: 440px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_cards\.scss}line{font-family:\000039}}
 .card_display_wrapper {
@@ -501,8 +558,8 @@ section {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_cards\.scss}line{font-family:\0000317}}
 .card_wrapper {
-  width: 7em;
-  height: 11.9em; }
+  width: 6.250em;
+  height: 10.313em; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/src\/toadstool\/sass\/_cards\.scss}line{font-family:\0000323}}
 .deck {

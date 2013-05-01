@@ -6,24 +6,61 @@
 
 // Your styles
 // -----------------------------------------------------------------------
+#reading {
+	@include grid(3);
+}
+
 #spread {
-	@include grid(9);
+	@include grid(8);
 	height:55em;
 	display:block;
 	position:relative;
-	background:red;
 	.deck{
 		position:relative;
 		top:0;
 		left:0;
 	}
 }
+
 #situation {
-	@include layout("85px", "190px")
+	@include layout("85px", "190px");
 }
 
-#reading {
-	@include grid(2);
+#challenge{
+	@include layout("-60px", "190px");
+	-moz-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-ms-transform:rotate(90deg);
+	filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5);	
 }
 
+#higher-power {
+	@include layout("-360px", "190px");
+}
 
+#foundation {
+	@include layout("-190px", "190px");
+}
+
+#past {
+	@include layout("-490px", "50px");
+}
+
+#future {
+	@include layout("-630px", "330px");
+}
+
+#self {
+	@include layout("-530px", "440px");
+}
+
+#others {
+	@include layout("-820px", "440px");
+}
+
+#hope-fear {
+	@include layout("-1110px", "440px");
+}
+#outcome {
+	@include layout("-1400px", "440px");
+}
