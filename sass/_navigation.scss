@@ -6,16 +6,24 @@
 
 // Your styles
 // -----------------------------------------------------------------------
-
-#global-nav {
-	@extend %navbar;
-	@extend %dropdown-menu;
-
+#spread {
+	@include grid(9);
+	height:55em;
+	display:block;
+	position:relative;
+	background:red;
+	.deck{
+		position:relative;
+		top:0;
+		left:0;
+	}
+}
+#situation {
+	@include layout("85px", "190px")
 }
 
-
-.parent-nav {
-	@extend %nav-tabs;
+#reading {
+	@include grid(2);
 }
 
 

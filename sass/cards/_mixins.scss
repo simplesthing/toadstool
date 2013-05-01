@@ -2,7 +2,14 @@ $img_dir:"../images/tarot";
 
 @mixin cards($filename:"") {
 	background:#000 url(unquote($img_dir)/unquote($filename)) no-repeat;
+	background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100% auto; /* Opera needs x AND y values, or no background! */
+	-webkit-background-size: 100%;
+	-khtml-background-size: 100%;
 	border:solid 1px #000;
-	width:7.2em;
-	height:11.9em;	
+	display:inline-block;
+	width:100%;
+	height:100%;
 }
+

@@ -42,15 +42,6 @@ $primary_font_family: #{ "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode",
 // Using Toadstool, all you need to do is edit these 6 hex values and everything else is created
 // by magic, unicorns and fairy dust!
 
-// These colors are being adpated form color palette 
-//provided by Robin:
-//$daptiv-red: #A90022;
-//$daptiv-gray: #424B42;
-//$daptiv-orange: #D73F00;
-//$daptiv-brown: #322500;
-//$daptiv-blue: #00478B;
-//$daptiv-green: #1D6B0A;
-//$daptiv-yellow: #EFB300;
 
 //$chart-red: mix( $daptiv-red, white, 60% );
 //$chart-gray: mix( $daptiv-gray, white, 60% );
@@ -68,13 +59,12 @@ $primary_font_family: #{ "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode",
 //$line-green: mix( $daptiv-green, white, 80% );
 //$line-yellow: mix( $daptiv-yellow, white, 80% ); 
 
-$alpha_primary:   #A90022;       // red
-$bravo_primary:   #1D6B0A;       // green
-$charlie_primary: #EFB300;;      // yellow
-$delta_primary:   #00478B;       // blue
-$echo_primary:    #D73F00;       // orange
-$fox_primary: 	  #424B42;       //custom gray - can we use grayscale??
-//$hotel_primary:  #322500;		 // brown 
+$alpha_primary:   #EA0606;      // red
+$bravo_primary:   #19FF04;      // green
+$charlie_primary: #FDFF00;		// yellow
+$delta_primary:   #0001FC;      // blue
+$echo_primary: #D24EC7;      //purple
+$fox_primary: #ff7800;      // orange
 
 $alpha_gray:      #000000;           //black 
 

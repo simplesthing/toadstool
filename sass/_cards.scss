@@ -14,6 +14,11 @@
 	}
 }
 
+.card_wrapper {
+	width:7em;
+	height:11.9em;
+}
+
 //DEALER
 .deck { @include cards("deck.gif"); }
 
@@ -42,7 +47,7 @@
 .universe { @include cards("trump/universe.gif"); }
 
 //WAND CARDS
-#wands {
+.wands {
 	.one { @include cards("wands/1.gif"); }
 	.two { @include cards("wands/2.gif"); }
 	.three { @include cards("wands/3.gif"); }
@@ -60,7 +65,7 @@
 }
 
 //SWORD CARDS
-#swords {
+.swords {
 	.one { @include cards("swords/1.gif"); }
 	.two { @include cards("swords/2.gif"); }
 	.three { @include cards("swords/3.gif"); }
@@ -78,7 +83,7 @@
 
 
 //CUP CARDS
-#cups {
+.cups {
 	.one { @include cards("cups/1.gif"); }
 	.two { @include cards("cups/2.gif"); }
 	.three { @include cards("cups/3.gif"); }
@@ -96,7 +101,7 @@
 }
 
 //COIN CARDS
-#coins {
+.coins {
 .one { @include cards("coins/1.gif"); }
 .two { @include cards("coins/2.gif"); }
 .three { @include cards("coins/3.gif"); }
@@ -110,7 +115,6 @@
 .page { @include cards("coins/page.gif"); }
 .knight { @include cards("coins/knight.gif"); }
 .queen { @include cards("coins/queen.gif"); }
-.king { @include cards("coins/king.gif"); }
 .king { @include cards("wands/king.gif"); }	
 }
 

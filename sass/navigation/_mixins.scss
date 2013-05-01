@@ -1,0 +1,5 @@
+@mixin layout($top:"", $left:"") {
+	position:relative;
+	top:unquote($top);
+	left:unquote($left);
+}
