@@ -25,12 +25,6 @@
 	@include grid(8);
 	height:55em;
 	display:block;
-	position:relative;
-	.deck{
-		position:relative;
-		top:0;
-		left:0;
-	}
 }
 #deck, #situation, #challenge, #power, #foundation, #past, #future, #self, #influences, #hope, #outcome {
   position:absolute;
@@ -39,11 +33,11 @@
   height: 20%; }
 
 #situation {
-	@include layout("30%", "25%");
+	@include layout("60%", "25%");
 }
 
 #challenge{
-	@include layout("10%", "25%");
+	@include layout("57%", "23%");
 	-moz-transform:rotate(90deg);
 	-webkit-transform:rotate(90deg);
 	-ms-transform:rotate(90deg);
@@ -51,32 +45,32 @@
 }
 
 #power {
-	@include layout("-33%", "25%");
+	@include layout("42%", "25%");
 }
 
 #foundation {
-	@include layout("-7%", "25%");
+	@include layout("78%", "25%");
 }
 
 #past {
-	@include layout("-50%", "3%");
+	@include layout("60%", "7%");
 }
 
 #future {
-	@include layout("-70%", "46%");
+	@include layout("60%", "42%");
 }
 
 #self {
-	@include layout("-55%", "65%");
+	@include layout("90%", "53%");
 }
 
 #influences {
-	@include layout("-97%", "65%");
+	@include layout("73%", "53%");
 }
 
 #hope {
-	@include layout("-141%", "65%%");
+	@include layout("55%", "53%%");
 }
 #outcome {
-	@include layout("-183%", "65%");
+	@include layout("38%", "53%");
 }
