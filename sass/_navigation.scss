@@ -8,6 +8,17 @@
 // -----------------------------------------------------------------------
 #reading {
 	@include grid(3);
+	border:solid 1px $fox_color;
+	border-radius:5px;
+	background:$shadow_color;
+
+	h2 {
+		margin:8px;
+		color:$charlie_color;
+	}
+	p {
+		margin:8px;
+	}
 }
 
 #spread {

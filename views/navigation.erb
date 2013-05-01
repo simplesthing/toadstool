@@ -3,8 +3,16 @@
 </header>
 <section id="celtic-cross">
 	<%= partial :'shared/_toadstool_subheader', :locals => { 
-      :header => 'Celtic Cross', :text => 'This is the tarot reading layout' 
+      :header => 'Celtic Cross', :text => 'This is the tarot cards layout' 
     } %>
     <%= html_example 'navigation/celtic_cross' %>
+    <%= sass_example '_navigation' %>
+</section>
+
+<section id="readings">
+	<%= partial :'shared/_toadstool_subheader', :locals => { 
+      :header => 'Reading', :text => 'This is the tarot reading layout' 
+    } %>
+    <%= html_example 'navigation/reading' %>
     <%= sass_example '_navigation' %>
 </section>
