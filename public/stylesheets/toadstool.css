@@ -5,34 +5,34 @@
   src: url("/fonts/fontawesome-webfont.eot");
   src: url("/fonts/fontawesome-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/fontawesome-webfont.woff") format("woff"), url("/fonts/fontawesome-webfont.ttf") format("truetype"), url("/fonts/fontawesome-webfont.svg#fontawesome-webfont") format("svg"); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/web_fonts\/_font_awesome_pua\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/web_fonts\/_font_awesome_pua\.scss}line{font-family:\000034}}
 .emBox .screen-width:before {
   font-family: 'FontAwesome'; }
 
 /* \f020 doesn't work in Safari. all shifted one down */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/web_fonts\/_font_awesome_pua\.scss}line{font-family:\00003185}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/web_fonts\/_font_awesome_pua\.scss}line{font-family:\00003185}}
 .emBox .screen-width:before {
   content: "\f0b2"; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/web_fonts\/_font_awesome_pua\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/web_fonts\/_font_awesome_pua\.scss}line{font-family:\000034}}
 .emBox .screen-width:before {
   font-family: 'FontAwesome'; }
 
 /* \f020 doesn't work in Safari. all shifted one down */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/web_fonts\/_font_awesome_pua\.scss}line{font-family:\00003185}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/web_fonts\/_font_awesome_pua\.scss}line{font-family:\00003185}}
 .emBox .screen-width:before {
   content: "\f0b2"; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_extends\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_extends\.scss}line{font-family:\000036}}
 .colorcode, .toadstool_main_header {
   zoom: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003271}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003271}}
   .colorcode:before, .toadstool_main_header:before {
     content: "\0020";
     display: block;
     height: 0;
     overflow: hidden; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003277}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003277}}
   .colorcode:after, .toadstool_main_header:after {
     content: "\0020";
     display: block;
@@ -40,7 +40,7 @@
     overflow: hidden;
     clear: both; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/_extends\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/_extends\.scss}line{font-family:\000038}}
 [class*="toadstool"] h2, [class*="toadstool"] h1 {
   font-size: 2.66667em;
   line-height: 1.125em;
@@ -49,13 +49,13 @@
   font-weight: normal;
   font-family: "Lato", sans-serif; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/_extends\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/_extends\.scss}line{font-family:\0000312}}
 [class*="toadstool"] h2 {
   font-size: 2em;
   line-height: 1.5em;
   margin-bottom: 0.75em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\000037}}
 .grid-1, .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10, .grid-11, .grid-12, .grid-1-24, .grid-2-24, .grid-3-24, .grid-4-24, .grid-5-24, .grid-6-24, .grid-7-24, .grid-8-24, .grid-9-24, .grid-10-24, .grid-11-24, .grid-12-24, .grid-13-24, .grid-14-24, .grid-15-24, .grid-16-24, .grid-17-24, .grid-18-24, .grid-19-24, .grid-20-24, .grid-21-24, .grid-22-24, .grid-23-24, .grid-24-24 {
   margin-bottom: 1em;
   text-align: center;
@@ -66,7 +66,7 @@
   -ms-box-shadow: inset rgba(51, 51, 51, 0.5) 0 0 1.66667em 0.83333em;
   box-shadow: inset rgba(51, 51, 51, 0.5) 0 0 1.66667em 0.83333em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000315}}
 .grid-1 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -78,7 +78,7 @@
   margin-right: 1.04167%;
   width: 6.25%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000315}}
     .grid-1 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -90,7 +90,7 @@
       margin-right: 1.25%;
       width: 7.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000315}}
     .grid-1 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -102,7 +102,7 @@
       margin-right: 3.125%;
       width: 18.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000325}}
 .grid-2 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -114,7 +114,7 @@
   margin-right: 1.04167%;
   width: 14.58333%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000325}}
     .grid-2 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -126,7 +126,7 @@
       margin-right: 1.25%;
       width: 17.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000325}}
     .grid-2 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -138,7 +138,7 @@
       margin-right: 3.125%;
       width: 43.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000335}}
 .grid-3 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -150,7 +150,7 @@
   margin-right: 1.04167%;
   width: 22.91667%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000335}}
     .grid-3 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -162,7 +162,7 @@
       margin-right: 1.25%;
       width: 27.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000335}}
     .grid-3 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -174,7 +174,7 @@
       margin-right: 3.125%;
       width: 68.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000345}}
 .grid-4 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -186,7 +186,7 @@
   margin-right: 1.04167%;
   width: 31.25%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000345}}
     .grid-4 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -198,7 +198,7 @@
       margin-right: 1.25%;
       width: 37.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000345}}
     .grid-4 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -210,7 +210,7 @@
       margin-right: 3.125%;
       width: 93.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000355}}
 .grid-5 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -222,7 +222,7 @@
   margin-right: 1.04167%;
   width: 39.58333%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000355}}
     .grid-5 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -234,7 +234,7 @@
       margin-right: 1.25%;
       width: 47.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000355}}
     .grid-5 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -246,7 +246,7 @@
       margin-right: 3.125%;
       width: 93.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000365}}
 .grid-6 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -258,7 +258,7 @@
   margin-right: 1.04167%;
   width: 47.91667%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000365}}
     .grid-6 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -270,7 +270,7 @@
       margin-right: 1.25%;
       width: 57.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000365}}
     .grid-6 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -282,7 +282,7 @@
       margin-right: 3.125%;
       width: 93.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000375}}
 .grid-7 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -294,7 +294,7 @@
   margin-right: 1.04167%;
   width: 56.25%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000375}}
     .grid-7 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -306,7 +306,7 @@
       margin-right: 1.25%;
       width: 67.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000375}}
     .grid-7 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -318,7 +318,7 @@
       margin-right: 3.125%;
       width: 93.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000385}}
 .grid-8 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -330,7 +330,7 @@
   margin-right: 1.04167%;
   width: 64.58333%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000385}}
     .grid-8 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -342,7 +342,7 @@
       margin-right: 1.25%;
       width: 77.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000385}}
     .grid-8 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -354,7 +354,7 @@
       margin-right: 3.125%;
       width: 93.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000395}}
 .grid-9 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -366,7 +366,7 @@
   margin-right: 1.04167%;
   width: 72.91667%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000395}}
     .grid-9 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -378,7 +378,7 @@
       margin-right: 1.25%;
       width: 87.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\0000395}}
     .grid-9 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -390,7 +390,7 @@
       margin-right: 3.125%;
       width: 93.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003105}}
 .grid-10 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -402,7 +402,7 @@
   margin-right: 1.04167%;
   width: 81.25%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003105}}
     .grid-10 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -414,7 +414,7 @@
       margin-right: 1.25%;
       width: 97.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003105}}
     .grid-10 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -426,7 +426,7 @@
       margin-right: 3.125%;
       width: 93.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003115}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003115}}
 .grid-11 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -438,7 +438,7 @@
   margin-right: 1.04167%;
   width: 89.58333%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003115}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003115}}
     .grid-11 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -450,7 +450,7 @@
       margin-right: 1.25%;
       width: 97.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003115}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003115}}
     .grid-11 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -462,7 +462,7 @@
       margin-right: 3.125%;
       width: 93.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003125}}
 .grid-12 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -474,7 +474,7 @@
   margin-right: 1.04167%;
   width: 97.91667%; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003125}}
     .grid-12 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -486,7 +486,7 @@
       margin-right: 1.25%;
       width: 97.5%; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003125}}
     .grid-12 {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -498,7 +498,7 @@
       margin-right: 3.125%;
       width: 93.75%; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-1-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -510,7 +510,7 @@
   margin-right: 0.52083%;
   width: 3.125%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-2-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -522,7 +522,7 @@
   margin-right: 0.52083%;
   width: 7.29167%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-3-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -534,7 +534,7 @@
   margin-right: 0.52083%;
   width: 11.45833%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-4-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -546,7 +546,7 @@
   margin-right: 0.52083%;
   width: 15.625%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-5-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -558,7 +558,7 @@
   margin-right: 0.52083%;
   width: 19.79167%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-6-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -570,7 +570,7 @@
   margin-right: 0.52083%;
   width: 23.95833%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-7-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -582,7 +582,7 @@
   margin-right: 0.52083%;
   width: 28.125%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-8-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -594,7 +594,7 @@
   margin-right: 0.52083%;
   width: 32.29167%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-9-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -606,7 +606,7 @@
   margin-right: 0.52083%;
   width: 36.45833%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-10-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -618,7 +618,7 @@
   margin-right: 0.52083%;
   width: 40.625%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-11-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -630,7 +630,7 @@
   margin-right: 0.52083%;
   width: 44.79167%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-12-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -642,7 +642,7 @@
   margin-right: 0.52083%;
   width: 48.95833%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-13-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -654,7 +654,7 @@
   margin-right: 0.52083%;
   width: 53.125%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-14-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -666,7 +666,7 @@
   margin-right: 0.52083%;
   width: 57.29167%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-15-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -678,7 +678,7 @@
   margin-right: 0.52083%;
   width: 61.45833%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-16-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -690,7 +690,7 @@
   margin-right: 0.52083%;
   width: 65.625%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-17-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -702,7 +702,7 @@
   margin-right: 0.52083%;
   width: 69.79167%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-18-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -714,7 +714,7 @@
   margin-right: 0.52083%;
   width: 73.95833%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-19-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -726,7 +726,7 @@
   margin-right: 0.52083%;
   width: 78.125%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-20-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -738,7 +738,7 @@
   margin-right: 0.52083%;
   width: 82.29167%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-21-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -750,7 +750,7 @@
   margin-right: 0.52083%;
   width: 86.45833%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-22-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -762,7 +762,7 @@
   margin-right: 0.52083%;
   width: 90.625%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-23-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -774,7 +774,7 @@
   margin-right: 0.52083%;
   width: 94.79167%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/grid\/_extends\.scss}line{font-family:\00003145}}
 .grid-24-24 {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -786,17 +786,17 @@
   margin-right: 0.52083%;
   width: 98.95833%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_typography\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_typography\.scss}line{font-family:\0000336}}
 [class*="toadstool"] h1 {
   font-weight: bold; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_typography\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_typography\.scss}line{font-family:\0000340}}
 [class*="toadstool"] h2 {
   color: #5c5c5c; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_typography\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_typography\.scss}line{font-family:\0000343}}
   [class*="toadstool"] h2 a {
     font-size: 0.8em;
     margin-left: 0.41667em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_typography\.scss}line{font-family:\0000348}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_typography\.scss}line{font-family:\0000348}}
 [class*="toadstool"] p, [class*="toadstool"] ul {
   color: #5c5c5c;
   font-size: 1.16667em;
@@ -804,14 +804,14 @@
   margin-bottom: 1.28571em; }
 
 @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_typography\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_typography\.scss}line{font-family:\0000357}}
   .element_example h1, .element_example h2, .element_example h3, .element_example h4, .element_example h5, .element_example h6 {
     width: auto;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\000033}}
 .styleguide_main_content {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -820,7 +820,7 @@
   box-sizing: border-box;
   margin: 0 auto;
   width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\000036}}
   .styleguide_main_content .styleguide_article, .styleguide_main_content .element_example {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -830,7 +830,7 @@
     margin: 0 auto;
     width: 80em; }
     @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\000036}}
       .styleguide_main_content .styleguide_article, .styleguide_main_content .element_example {
         -moz-box-sizing: border-box;
         -webkit-box-sizing: border-box;
@@ -840,7 +840,7 @@
         margin: 0 auto;
         width: 100%; } }
     @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\000036}}
       .styleguide_main_content .styleguide_article, .styleguide_main_content .element_example {
         -moz-box-sizing: border-box;
         -webkit-box-sizing: border-box;
@@ -849,7 +849,7 @@
         box-sizing: border-box;
         margin: 0 auto;
         width: 100%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000317}}
     .styleguide_main_content .styleguide_article .toadstool_header, .styleguide_main_content .styleguide_article .toadstool_subheader, .styleguide_main_content .element_example .toadstool_header, .styleguide_main_content .element_example .toadstool_subheader {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -861,7 +861,7 @@
       margin-right: 1.04167%;
       width: 97.91667%; }
       @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000317}}
         .styleguide_main_content .styleguide_article .toadstool_header, .styleguide_main_content .styleguide_article .toadstool_subheader, .styleguide_main_content .element_example .toadstool_header, .styleguide_main_content .element_example .toadstool_subheader {
           -moz-box-sizing: border-box;
           -webkit-box-sizing: border-box;
@@ -872,37 +872,37 @@
           margin-left: 3.125%;
           margin-right: 3.125%;
           width: 93.75%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000324}}
     .styleguide_main_content .styleguide_article section, .styleguide_main_content .element_example section {
       clear: both; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000326}}
       .styleguide_main_content .styleguide_article section:nth-of-type(1n+2), .styleguide_main_content .element_example section:nth-of-type(1n+2) {
         border-top: 1px dotted;
         padding-top: 1.66667em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000332}}
   .styleguide_main_content .element_example {
     margin-bottom: 1.66667em;
     float: left;
     background-image: url(data:image/gif;base64,R0lGODlhUAABAIAAAP/////l5SwAAAAAUAABAAACC4SPocvtD6NsqIICADs=); }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000336}}
     .styleguide_main_content .element_example.col_24_grid {
       background-image: url(data:image/gif;base64,R0lGODlhKAABAIAAAP/////l5SH5BAAAAAAALAAAAAAoAAEAAAIIhB2py+15TAEAOw==); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000342}}
 .hidden {
   display: none; }
 
 @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000346}}
   .mobi_hidden {
     display: none; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_design\.scss}line{font-family:\0000352}}
 code {
   padding: 0.16667em 0.41667em;
   background: #fdefc8; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_forms\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_forms\.scss}line{font-family:\000033}}
 [class*="toadstool"] select {
   border: 1px solid #555555;
   padding: 0.5em;
@@ -911,13 +911,13 @@ code {
   margin-top: 0.25em;
   -webkit-border-radius: 0.5em;
   border-radius: 0.5em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_forms\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_forms\.scss}line{font-family:\0000310}}
   .flexbox [class*="toadstool"] select {
     -webkit-appearance: none;
     background: white url("data:image/png,%89PNG%0D%0A%1A%0A%00%00%00%0DIHDR%00%00%0C%80%00%00%00%40%08%02%00%00%00W%AEz%EF%00%00%00%19tEXtSoftware%00Adobe%20ImageReadyq%C9e%3C%00%00%04%E5IDATx%DA%EC%DD%3DN%E3Z%18%06%E0%B1oD%82%A8%E8(%A8%D2Q%D2%D0%40%83%C4%12%D8%01%3Db%09P%81%A0%40%A2%60%05%D9%05%BB%A0%04%09!B%3A%9A%10%07%F2g%E7%22%90f(%98%E09%23Y7%E7%3EOi%1F%1FK_%FD%EA%FD%92%E9t%FA%03%00%00%00%00%00%00%00%00%80%3F%97%1A%01%00%00%00%00%00%00%00%00%40%98%9A%06%2C%00%00%00%00%00%00%00%00%20%0E%D5%A7%A14%60%01%00%00%00%00%00%00%00%00%04%D2%80%05%00%00%00%00%00%00%00%00DB%03%16%00%00%00%00%00%00%00%00%C0%DC%D0%80%05%00%00%00%00%00%00%00%00D%A2(%8A%8A%FF(%80%05%00%00%00%00%00%00%00%00D%C2%0AB%00%00%00%00%00%00%00%00%80%B9%A1%01%0B%00%00%00%00%00%00%00%00%88%84%15%84%00%00%00%00%00%00%00%00%00%81%AC%20%04%00%00%00%00%00%00%00%00%98%1B%1A%B0%00%00%00%00%00%00%00%00%80HXA%08%00%00%00%00%00%00%00%00%10%A8%FA4%94%00%16%00%00%00%00%00%00%00%00%10%09%0DX%00%00%00%00%00%00%00%00%00%81%AAOC%A5%86%0E%00%00%00%00%00%00%00%00%10F%03%16%00%00%00%00%00%00%00%00%10%09%2B%08%01%00%00%00%00%00%00%00%00%02U%9F%86%12%C0%02%00%00%00%00%00%00%00%00%22!%80%05%00%00%00%00%00%00%00%00%10%C8%0AB%00%00%00%00%00%00%00%00%80%40%1A%B0%00%00%00%00%00%00%00%00%00%02i%C0%02%00%00%00%00%00%00%00%00%08%A4%01%0B%00%00%00%00%00%00%00%00%20%90%06%2C%00%00%00%00%00%00%00%00%80%40%02X%00%00%00%00%00%00%00%00%00%81%AC%20%04%00%00%00%00%00%00%00%00%08%24%80%05%00%00%00%00%00%00%00%00%10%C8%0AB%00%00%00%00%00%00%00%00%80%40%1A%B0%00%00%00%00%00%00%00%00%00%02i%C0%02%00%00%00%00%00%00%00%00%084%3B%0Du%7B%7B%7Bzz%3A%18%0C%CA_%D8h4%F6%F6%F6677%F3%3C%FF%F2%40%D2%E9t%CC%1D%00%00%00%00%00%00%00%00%88%40%96e3%DE%26I2%18%0C%8E%8F%8F%EF%EE%EE%CA%DC%B6%BC%BC%7Cxx%D8l6_%5E%5EF%A3%D1%97%E9%AE%D4%D0%01%00%00%00%00%00%00%00%80%FF%83%E9t%BA%B8%B8xvv%B6%B3%B3%F3%ED%E1%F5%F5%F5V%AB%B5%B6%B66%99L~W%7F%F5%26y%7C%7C4Y%00%00%00%00%00%00%00%00%20%02%BD%5E%EF%DB3i%9A%D6%EB%F5%AB%AB%ABV%AB%F5%BBu%84%BB%BB%BB%FB%FB%FB%FD~%3F%CB%B2%B73%B3%02X%EDv%DB%DC%01%00%00%00%00%00%00%00%80%08%94%09%60%FDx%DFE%B8%B0%B0%D0n%B7%2F..%3A%9D%CE%E7W%8DF%E3%E8%E8hcc%23%7B7%1C%0E%BF%DC%3C%F8%EB%AA%87%87%07s%07%00%00%00%00%00%00%00%00%22%F0%FC%FC%5C%F2d%9A%A6%B5Zm2%99%9C%9F%9F___%7F%3C%5C%5D%5D%3D99YYY%E9%F5z%FD~%7F%3C%1E%17E1%FB%9E%7F%0E%0E%0E%CC%1D%00%00%00%00%00%00%00%00%88%C0p8%2Cyr%3A%9D%E6y%9E%A6%E9%F6%F6%F6h4%BA%B9%B9%D9%DA%DA%BA%BC%BC%AC%D5j%DDn7%CB%B2%B7%87%B3%BB%AF%3E%24%F7%F7%F7%E6%0E%00%00%00%00%00%00%00%00D%A0%7C%03%D6Oi%9A%D6%EB%F5n%B7%DBl6%C7%E3q%96e%AF%AF%AF%DF%16_%FDT%2B%93%D2%02%00%00%00%00%00%00%00%00%F8%EF%2B%1F%9C%FA%FC%C9%9B%A5%A5%A5%A7%A7%A7%3C%CF%CB%AC%1D%FCL%00%0B%00%00%00%00%00%00%00%00%88DX%1A*%7F%97%24I%C0%E7%02X%00%00%00%00%00%00%00%00%40%24%FE%26%0D%15%F6%AD%00%16%00%00%00%00%00%00%00%00%10%89%80%15%84%7FI%00%0B%00%00%00%00%00%00%00%00%88D%F5i(%01%2C%00%00%00%00%00%00%00%00%20%12%1A%B0%00%00%00%00%00%00%00%00%00%02i%C0%02%00%00%00%00%00%00%00%00%08%24%80%05%00%00%00%00%00%00%00%00%10%C8%0AB%00%00%00%00%00%00%00%00%80%40%D5%A7%A1RC%07%00%00%00%00%00%00%00%00%08%A3%01%0B%00%00%00%00%00%00%00%00%88%84%15%84%00%00%00%00%00%00%00%00%00%81%AAOC%09%60%01%00%00%00%00%00%00%00%00%91%10%C0%02%00%00%00%00%00%00%00%00%08T%FD%0A%C2%D4%D0%01%00%00%00%00%00%00%00%00%C2h%C0%02%00%00%00%00%00%00%00%00%22a%05!%00%00%00%00%00%00%00%00%40%A0%EA%D3PV%10%02%00%00%00%00%00%00%00%00%04%D2%80%05%00%00%00%00%00%00%00%00D%A2(%8A%8A%FF(%80%05%00%00%00%00%00%00%00%00D%C2%0AB%00%00%00%00%00%00%00%00%80%B9%A1%01%0B%00%00%00%00%00%00%00%00%88%84%06%2C%00%00%00%00%00%00%00%00%80%B9%A1%01%0B%00%00%00%00%00%00%00%00%88DQ%14%15%FF%F1_%01%06%00md%E2%BF%C9%C3%19%DA%00%00%00%00IEND%AEB%60%82") no-repeat right center;
     background-size: 1600px 32px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_buttons\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_buttons\.scss}line{font-family:\000032}}
 [class*="toadstool"] .nav_toggle {
   background: #333333;
   background: -webkit-linear-gradient(top, #707070 0%, #333333 100%);
@@ -930,7 +930,7 @@ code {
   float: right;
   display: none;
   color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_buttons\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_buttons\.scss}line{font-family:\000034}}
   [class*="toadstool"] .nav_toggle:hover {
     background: #333333;
     background: -webkit-linear-gradient(top, #333333 0%, #707070 100%);
@@ -940,39 +940,39 @@ code {
     border-color: #333333;
     box-shadow: 0 0 0; }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_buttons\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_buttons\.scss}line{font-family:\000032}}
     [class*="toadstool"] .nav_toggle {
       display: block;
       width: auto;
       padding: 1.25rem 0.83333rem 0.83333rem 0.83333rem;
       font-weight: normal; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_buttons\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_buttons\.scss}line{font-family:\0000321}}
       [class*="toadstool"] .nav_toggle span:after {
         content: "\f00b";
         font-family: FontAwesome;
         font-size: 2em; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\000032}}
 .col_4_grid, .col_10_grid {
   display: none; }
 
 @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\000037}}
   .col_10_grid {
     display: block; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\0000310}}
   .col_12_grid {
     display: none; } }
 @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\0000316}}
   .col_4_grid {
     display: block; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\0000319}}
   .col_12_grid, .col_10_grid {
     display: none; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\0000334}}
 .grid-full {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -982,7 +982,7 @@ code {
   margin: 0;
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/_grids\.scss}line{font-family:\0000338}}
 .grid-full_center {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -992,64 +992,64 @@ code {
   margin: 0 auto;
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000311}}
 .str {
   color: #EC7600; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000315}}
 .kwd {
   color: #9763C7; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000319}}
 .com {
   color: #93C763; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000323}}
 .typ {
   color: #678CB1; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000327}}
 .lit {
   color: #FACD22; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000331}}
 .pun {
   color: #F1F2F3; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000335}}
 .pln {
   color: #F1F2F3; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000339}}
 .tag {
   color: #8AC763; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000343}}
 .atn {
   color: #E0E2E4; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000347}}
 .atv {
   color: #EC7600; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000351}}
 .dec {
   color: purple; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000356}}
 pre.prettyprint {
   font-size: 1.16667em; }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000356}}
     pre.prettyprint {
       font-size: 1.16667em; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000364}}
 ol.linenums {
   margin-top: 0;
   margin-bottom: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000369}}
 .example_code, .instructional_example {
   background: #474747;
   -webkit-border-radius: 0.41667em;
@@ -1067,7 +1067,7 @@ ol.linenums {
   width: 97.91667%;
   line-height: 1.5em; }
   @media screen and (max-width: 64em) and (orientation: portrait) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000369}}
     .example_code, .instructional_example {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -1080,7 +1080,7 @@ ol.linenums {
       width: 97.5%;
       padding-right: 0.83333em; } }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000369}}
     .example_code, .instructional_example {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -1092,7 +1092,7 @@ ol.linenums {
       margin-right: 3.125%;
       width: 93.75%;
       padding-right: 0.83333em; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000387}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000387}}
   .example_code p, .instructional_example p {
     color: #999999;
     float: right;
@@ -1100,48 +1100,48 @@ ol.linenums {
     margin-bottom: 0.5em;
     font-size: 1.5em; }
     @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000387}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000387}}
       .example_code p, .instructional_example p {
         margin-right: 0;
         font-size: 1em; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\0000398}}
   .example_code .codeToggle, .instructional_example .codeToggle {
     margin-left: 0.5em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003101}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003101}}
   .example_code .mtime, .instructional_example .mtime {
     display: block;
     width: 100%;
     font-size: 0.9em;
     text-align: right; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003107}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003107}}
   .example_code [contenteditable], .instructional_example [contenteditable] {
     margin-bottom: 0.83333em;
     padding-left: 0.83333em;
     cursor: pointer; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003111}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003111}}
     .example_code [contenteditable]:focus, .instructional_example [contenteditable]:focus {
       outline: 1px solid green; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003114}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003114}}
     .example_code [contenteditable] ::selection, .instructional_example [contenteditable] ::selection {
       color: inherit;
       background: rgba(0, 0, 255, 0.3); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003121}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003121}}
 .instructional_example {
   background: transparent; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003127}}
 li.L0, li.L1, li.L2, li.L3, li.L4, li.L5, li.L6, li.L7, li.L8, li.L9 {
   list-style-type: decimal;
   margin: 0 0 0 2.5em;
   color: white;
   padding: 0.25em 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003134}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_prettify\.scss}line{font-family:\00003134}}
 li.L1, li.L3, li.L5, li.L7, li.L9 {
   background: #3F3F3F; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_emBox\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_emBox\.scss}line{font-family:\000033}}
 .emBox {
   position: fixed;
   padding: 0.41667em 0.83333em;
@@ -1153,11 +1153,11 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
   left: 0;
   border-radius: 0 0.41667em 0 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\000033}}
 .colorcode {
   margin-bottom: 1.5em; }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\000033}}
     .colorcode {
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -1168,14 +1168,14 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
       margin-left: 3.125%;
       margin-right: 3.125%;
       width: 93.75%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\000039}}
   .colorcode .toadstool_subheader {
     margin-bottom: 1em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000312}}
   .colorcode section {
     padding: 0.83333em 0 0 0.83333em;
     margin: -0.83333em 0 0 -0.83333em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000316}}
   .colorcode div {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1191,17 +1191,17 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
     margin: 0 4.16667em 5.83333em 4.16667em;
     border: 1px solid white;
     box-shadow: 0 0 0.83333em 0.25em rgba(51, 51, 51, 0.5); }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000327}}
     .colorcode div span {
       display: block;
       font-weight: normal; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000332}}
   .colorcode p {
     margin-bottom: 0;
     margin-left: -25px;
     width: 125px;
     margin-top: 85px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000338}}
   .colorcode .border {
     -moz-box-shadow: inset #333333 0 0 1px;
     -webkit-box-shadow: inset #333333 0 0 1px;
@@ -1209,7 +1209,7 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
     -ms-box-shadow: inset #333333 0 0 1px;
     box-shadow: inset #333333 0 0 1px; }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000342}}
     .colorcode div {
       width: 100%;
       border-radius: 0;
@@ -1217,14 +1217,14 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
       box-shadow: 0 0 0.58333em 0em rgba(51, 51, 51, 0.5);
       margin-left: 0;
       text-align: left; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000349}}
       .colorcode div span {
         margin: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000353}}
     .colorcode section {
       position: relative;
       top: -0.83333em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/ui_patterns\/_color_grid\.scss}line{font-family:\0000357}}
     .colorcode p {
       color: white;
       left: 0;
@@ -1232,24 +1232,24 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
       line-height: 1.5em;
       text-shadow: 2px 2px 4px black; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\000031}}
 .toadstool_main_header {
   background: #474747;
   padding: 0.83333rem 0.83333rem 1.25rem 0.83333rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\000033}}
   .toadstool_main_header h1 {
     color: white;
     float: left;
     margin-bottom: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\0000310}}
   .toadstool_main_header form {
     display: inline-block;
     float: right; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\0000313}}
     .toadstool_main_header form select {
       min-width: 8.33333rem; }
     @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\0000310}}
       .toadstool_main_header form {
         margin-top: 0.83333em;
         margin-right: 0.83333em;
@@ -1257,15 +1257,15 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
         width: 80%;
         float: none; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\0000327}}
 .toadstool_header h1 {
   margin-top: 2rem; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_header\.scss}line{font-family:\0000333}}
 .toadstool_subheader h2 {
   margin-bottom: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_footer\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_footer\.scss}line{font-family:\000031}}
 .toadstool_main_footer {
   padding: 0.83333em 0;
   border-top: 1px solid #5c5c5c;
@@ -1279,50 +1279,50 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
   clear: both;
   text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\000032}}
 .toadstool_nav ol {
   height: auto;
   width: 100%;
   background: #474747;
   font-weight: bold; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
   .flexboxlegacy .toadstool_nav ol {
     display: -moz-box;
     -moz-box-orient: horizontal;
     -moz-box-pack: center;
     -moz-box-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
   .flexboxlegacy .toadstool_nav ol {
     display: -webkit-box;
     -webkit-box-orient: horizontal;
     -webkit-box-pack: center;
     -webkit-box-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
   .flexboxlegacy .toadstool_nav ol {
     display: box;
     box-orient: horizontal;
     box-pack: center;
     box-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003192}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003192}}
   .flexbox .toadstool_nav ol {
     display: -ms-flexbox;
     -ms-flex-direction: row;
     -ms-flex-align: center;
     -ms-flex-pack: center;
     -ms-flex-wrap: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003192}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003192}}
   .flexbox .toadstool_nav ol {
     display: -ms-flexbox;
     flex-direction: row;
     flex-align: center;
     flex-pack: center;
     flex-wrap: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003202}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003202}}
   .no-flexboxlegacy .toadstool_nav ol {
     width: 100%;
     float: left; }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\000032}}
     .toadstool_nav ol {
       height: auto;
       width: 100%;
@@ -1331,69 +1331,69 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
       background: -moz-linear-gradient(top, #474747 30%, #707070 100%);
       background: -o-linear-gradient(top, #474747 30%, #707070 100%);
       background: -ms-linear-gradient(top, #474747 30%, #707070 100%); }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
       .flexboxlegacy .toadstool_nav ol {
         display: -moz-box;
         -moz-box-orient: vertical;
         -moz-box-pack: center;
         -moz-box-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
       .flexboxlegacy .toadstool_nav ol {
         display: -webkit-box;
         -webkit-box-orient: vertical;
         -webkit-box-pack: center;
         -webkit-box-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003181}}
       .flexboxlegacy .toadstool_nav ol {
         display: box;
         box-orient: vertical;
         box-pack: center;
         box-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003192}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003192}}
       .flexbox .toadstool_nav ol {
         display: -ms-flexbox;
         -ms-flex-direction: row;
         -ms-flex-align: center;
         -ms-flex-pack: center;
         -ms-flex-wrap: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003192}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003192}}
       .flexbox .toadstool_nav ol {
         display: -ms-flexbox;
         flex-direction: row;
         flex-align: center;
         flex-pack: center;
         flex-wrap: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003202}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003202}}
       .no-flexboxlegacy .toadstool_nav ol {
         width: 100%;
         float: left; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000311}}
 .toadstool_nav li {
   text-align: center;
   line-height: 3em;
   background: white;
   color: #333333;
   border-radius: 0.41667em 0.41667em 0 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003216}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003216}}
   .flexboxlegacy .toadstool_nav li {
     -moz-box-flex: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003216}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003216}}
   .flexboxlegacy .toadstool_nav li {
     -webkit-box-flex: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003216}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003216}}
   .flexboxlegacy .toadstool_nav li {
     box-flex: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003221}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003221}}
   .flexbox .toadstool_nav li {
     -ms-flex: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003221}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003221}}
   .flexbox .toadstool_nav li {
     flex: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003225}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\00003225}}
   .no-flexboxlegacy .toadstool_nav li {
     float: left; }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000311}}
     .toadstool_nav li {
       width: 100%;
       border-radius: 0;
@@ -1401,7 +1401,7 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
       background: transparent;
       color: #858585;
       border-top: 1px solid #858585; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000327}}
 .toadstool_nav a {
   color: white;
   background: #474747;
@@ -1410,21 +1410,21 @@ li.L1, li.L3, li.L5, li.L7, li.L9 {
   background: -o-linear-gradient(top, #474747 50%, #707070 100%);
   background: -ms-linear-gradient(top, #474747 50%, #707070 100%);
   display: block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000330}}
   .no-flexbox .toadstool_nav a {
     padding: 0 0.83333em; }
   @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000327}}
     .toadstool_nav a {
       background: transparent; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000337}}
   .toadstool_nav a:hover {
     text-decoration: none;
     background: white;
     color: #333333;
     border-radius: 0.41667em 0.41667em 0 0; }
     @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/avacollins\/\.rvm\/gems\/ruby-1\.9\.3-p392\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/toadstool\/modules\/_main_nav\.scss}line{font-family:\0000337}}
       .toadstool_nav a:hover {
         border-radius: 0;
         background: transparent;

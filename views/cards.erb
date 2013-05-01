@@ -1,0 +1,56 @@
+<header class="toadstool_header">
+	<h1>Cards</h1>
+</header>
+<section id="deck_tmpl">
+	<%= partial :'shared/_toadstool_subheader', :locals => { 
+      :header => 'Deck', :text => 'This is the card that deals the reading' 
+    } %>
+    <%= html_example 'cards/deck' %>
+    <%= sass_example '_cards' %>
+    
+</section>
+
+<section id="trumps_tmpl">
+	<%= partial :'shared/_toadstool_subheader', :locals => { 
+      :header => 'Trump', :text => 'These are the trump cards, they each represent a Sephiroth on the Tree of Life' 
+    } %>
+    <%= html_example 'cards/trump_cards' %>
+    <%= sass_example '_cards' %>
+    
+</section>
+
+<section id="wands_tmpl">
+	<%= partial :'shared/_toadstool_subheader', :locals => { 
+      :header => 'Wands', :text => 'These are the wands or staves cards, they represent the fire element' 
+    } %>
+    <%= html_example 'cards/elemental_cards_wands' %>
+    <%= sass_example '_cards' %>
+    
+</section>
+
+<section id="swords_tmpl">
+	<%= partial :'shared/_toadstool_subheader', :locals => { 
+      :header => 'Swords', :text => 'These are the sword cards, they represent the air element' 
+    } %>
+    <%= html_example 'cards/elemental_cards_swords' %>
+    <%= sass_example '_cards' %>
+    
+</section>
+
+<section id="cups_tmpl">
+	<%= partial :'shared/_toadstool_subheader', :locals => { 
+      :header => 'Cups', :text => 'These are the cup cards, they represent the water element' 
+    } %>
+    <%= html_example 'cards/elemental_cards_cups' %>
+    <%= sass_example '_cards' %>
+    
+</section>
+
+<section id="coins_tmpl">
+	<%= partial :'shared/_toadstool_subheader', :locals => { 
+      :header => 'Coins', :text => 'These are the coin cards, they represent the earth element' 
+    } %>
+    <%= html_example 'cards/elemental_cards_coins' %>
+    <%= sass_example '_cards' %>
+    
+</section>

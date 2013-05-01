@@ -17,7 +17,7 @@ http_path = "/"
 #  sass_dir = "sass"
 #end
 
-css_dir = "../PpmApp/src/public/css"
+css_dir = "public/stylesheets"
 sass_dir = "sass"
 images_dir = "images"
 javascripts_dir = "javascripts"
