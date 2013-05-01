@@ -1,5 +1,7 @@
 <nav class="toadstool_nav mobi_hidden">
-	<ol>
+	<ol> 
+		<li><%= link_to_unless_current '/navigation', 'Navigation' %> </li>
+		<li><%= link_to_unless_current '/cards', 'Cards' %> </li>
 		<li><%= link_to_unless_current '/', 'Typography' %> </li>
 		<li><%= link_to_unless_current '/grid', 'Grids' %> </li>
 		<li><%= link_to_unless_current '/color_palettes', 'Color palettes' %> </li>
@@ -7,10 +9,9 @@
 		
 		<!-- <li><%#= link_to_unless_current '/alerts', 'Alerts' %> </li> -->
 		<!-- <li><%#= link_to_unless_current '/buttons', 'Buttons' %> </li> -->
-		<li><%= link_to_unless_current '/forms', 'Forms' %> </li>
+		<!--li><%= link_to_unless_current '/forms', 'Forms' %> </li-->
 		<!-- <li><%#= link_to_unless_current '/Patterns', 'Patterns' %> </li> -->
-		 <li><%= link_to_unless_current '/navigation', 'Navigation' %> </li>
-		 <li><%= link_to_unless_current '/cards', 'Cards' %> </li>
+		
 	</ol>		
 </nav>
 
