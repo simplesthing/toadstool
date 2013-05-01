@@ -17,9 +17,9 @@ http_path = "/"
 #  sass_dir = "sass"
 #end
 
-css_dir = "../PpmApp/src/public/css"
+css_dir = "../public/stylesheets"
 sass_dir = "sass"
-images_dir = "images"
+images_dir = "../tarot-IV/public/images"
 javascripts_dir = "javascripts"
 
 # You can select your preferred output style here (can be overridden via the command line):
