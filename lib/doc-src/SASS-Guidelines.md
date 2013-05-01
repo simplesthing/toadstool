@@ -197,7 +197,7 @@ One of the advantages Sass has over other languages are control directives. This
 
 ### Functions
 
-Sass has built in functions like `percentage($value)` along with [plenty of others](http://Sass-lang.com/docs/yardoc/Sass/Script/Functions.html). However you can build your own functions to help with calculations and generating values for a verity of use cases. Below is an exponent function that can be used on any value.
+Sass has built in functions like `percentage($value)` along with [plenty of influences](http://Sass-lang.com/docs/yardoc/Sass/Script/Functions.html). However you can build your own functions to help with calculations and generating values for a verity of use cases. Below is an exponent function that can be used on any value.
 
 ```scss
 @function exponent($base, $exponent) {

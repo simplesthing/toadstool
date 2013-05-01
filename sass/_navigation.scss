@@ -32,46 +32,51 @@
 		left:0;
 	}
 }
+#deck, #situation, #challenge, #power, #foundation, #past, #future, #self, #influences, #hope, #outcome {
+  position:absolute;
+  text-align: center;
+  width: 15%;
+  height: 20%; }
 
 #situation {
-	@include layout("85px", "190px");
+	@include layout("30%", "25%");
 }
 
 #challenge{
-	@include layout("-60px", "190px");
+	@include layout("10%", "25%");
 	-moz-transform:rotate(90deg);
 	-webkit-transform:rotate(90deg);
 	-ms-transform:rotate(90deg);
 	filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5);	
 }
 
-#higher-power {
-	@include layout("-360px", "190px");
+#power {
+	@include layout("-33%", "25%");
 }
 
 #foundation {
-	@include layout("-190px", "190px");
+	@include layout("-7%", "25%");
 }
 
 #past {
-	@include layout("-490px", "50px");
+	@include layout("-50%", "3%");
 }
 
 #future {
-	@include layout("-630px", "330px");
+	@include layout("-70%", "46%");
 }
 
 #self {
-	@include layout("-530px", "440px");
+	@include layout("-55%", "65%");
 }
 
-#others {
-	@include layout("-820px", "440px");
+#influences {
+	@include layout("-97%", "65%");
 }
 
-#hope-fear {
-	@include layout("-1110px", "440px");
+#hope {
+	@include layout("-141%", "65%%");
 }
 #outcome {
-	@include layout("-1400px", "440px");
+	@include layout("-183%", "65%");
 }
