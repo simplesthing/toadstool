@@ -154,7 +154,7 @@ mark {
   color: #1a1a1a; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/_extends\.scss}line{font-family:\000038}}
-h2, h3, h4, label, #login-area input, #login-area label, h5, h6, h1 {
+h2, h3, h4, #login-area input, #login-area label, h5, h6, h1 {
   font-size: 3.28571em;
   line-height: 1.36957em;
   margin-bottom: 0.45652em;
@@ -175,7 +175,7 @@ h3 {
   margin-bottom: 0.75em; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/_extends\.scss}line{font-family:\0000322}}
-h4, label, #login-area input, #login-area label {
+h4, #login-area input, #login-area label {
   font-size: 1.14286em;
   line-height: 1.3125em;
   margin-bottom: 1.3125em; }
@@ -191,64 +191,6 @@ h6 {
   font-size: 1.28571em;
   line-height: 1.16667em;
   margin-bottom: 1.16667em; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/forms\/_extends\.scss}line{font-family:\0000317}}
-input[disabled], textarea[disabled], select[disabled], .disabled {
-  background-color: #d9d9d9;
-  border-color: #999999;
-  color: #999999; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/forms\/_mixins\.scss}line{font-family:\0000322}}
-  input[disabled]:hover, textarea[disabled]:hover, select[disabled]:hover, .disabled:hover {
-    border-color: #999999; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/forms\/_extends\.scss}line{font-family:\0000337}}
-.fail {
-  border-color: #f91212 !important;
-  color: #f91212 !important; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/forms\/_mixins\.scss}line{font-family:\0000330}}
-  input .fail {
-    background: #fee5e5; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/forms\/_mixins\.scss}line{font-family:\0000333}}
-  .fail:focus {
-    background: #fee5e5 !important; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/forms\/_mixins\.scss}line{font-family:\0000336}}
-  .fail label {
-    color: #f91212 !important; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/forms\/_mixins\.scss}line{font-family:\0000339}}
-  .fail select, .fail input[type="text"], .fail input[type="date"], .fail input[type="password"] {
-    background: #fee5e5;
-    border-color: #f91212;
-    color: #f91212; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\0000386}}
-    .fail select::-webkit-input-placeholder, .fail input[type="text"]::-webkit-input-placeholder, .fail input[type="date"]::-webkit-input-placeholder, .fail input[type="password"]::-webkit-input-placeholder {
-      color: #f91212; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\0000389}}
-    .fail select:-moz-placeholder, .fail input[type="text"]:-moz-placeholder, .fail input[type="date"]:-moz-placeholder, .fail input[type="password"]:-moz-placeholder {
-      color: #f91212; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/stipe\/_mixins\.scss}line{font-family:\0000392}}
-    .fail select:-ms-input-placeholder, .fail input[type="text"]:-ms-input-placeholder, .fail input[type="date"]:-ms-input-placeholder, .fail input[type="password"]:-ms-input-placeholder {
-      color: #f91212; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/forms\/_mixins\.scss}line{font-family:\0000344}}
-    .fail select:focus, .fail input[type="text"]:focus, .fail input[type="date"]:focus, .fail input[type="password"]:focus {
-      background: #fee5e5; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/forms\/_extends\.scss}line{font-family:\0000347}}
-.instructional {
-  color: #333333;
-  line-height: 1.5em;
-  margin-top: 0.5em; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/forms\/_extends\.scss}line{font-family:\0000357}}
-.inline_alert {
-  line-height: 2.14286em;
-  font-weight: bold;
-  -webkit-border-radius: 0.21429em;
-  border-radius: 0.21429em;
-  border: 1px solid #f91212;
-  padding-left: 0.85714em;
-  background: #ea0606;
-  color: white;
-  margin-top: 0.85714em; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/\.rvm\/gems\/ruby-1\.9\.3-p194\@toadstool\/gems\/stipe-0\.0\.5\.7\.4\/stylesheets\/stipe\/typography\/_default\.scss}line{font-family:\000031}}
 html {
@@ -287,153 +229,10 @@ h2 {
   margin: 0; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/typography\/_extends\.scss}line{font-family:\0000319}}
-h4, label, #login-area input, #login-area label {
+h4, #login-area input, #login-area label {
   color: #4d4d4d;
   font-weight: bold;
   margin: 0; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_forms\.scss}line{font-family:\0000317}}
-input[type=email], input[type=password], input[type=text], input[type=number] {
-  border: 2px solid #d7d7d7;
-  font-size: 16px;
-  height: 26px;
-  padding: 2px;
-  width: 320px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_forms\.scss}line{font-family:\0000330}}
-label {
-  border: none;
-  font-size: 14px;
-  margin: 0;
-  padding: 0;
-  text-decoration: none; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_extends\.scss}line{font-family:\000034}}
-button, a.button {
-  background-color: #6465ff;
-  *zoom: 1;
-  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF6465FF', endColorstr='#FF6465FF');
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6465ff), color-stop(75%, #6465ff));
-  background-image: -webkit-linear-gradient(top, #6465ff 0%, #6465ff 75%);
-  background-image: -moz-linear-gradient(top, #6465ff 0%, #6465ff 75%);
-  background-image: -o-linear-gradient(top, #6465ff 0%, #6465ff 75%);
-  background-image: linear-gradient(top, #6465ff 0%, #6465ff 75%);
-  border: 1px solid #1819ff;
-  color: black;
-  line-height: 2.28571em;
-  border-radius: 0.14286em;
-  padding: 0 1.42857em;
-  font-size: 0.85714em;
-  font-weight: bold;
-  border-radius: 2px;
-  color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_mixins\.scss}line{font-family:\0000322}}
-  button:hover, a.button:hover {
-    background-color: #6465ff;
-    *zoom: 1;
-    filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF6465FF', endColorstr='#FF3B3CFF');
-    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(50%, #6465ff), color-stop(75%, #3b3cff));
-    background-image: -webkit-linear-gradient(top, #6465ff 50%, #3b3cff 75%);
-    background-image: -moz-linear-gradient(top, #6465ff 50%, #3b3cff 75%);
-    background-image: -o-linear-gradient(top, #6465ff 50%, #3b3cff 75%);
-    background-image: linear-gradient(top, #6465ff 50%, #3b3cff 75%); }
-  @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_extends\.scss}line{font-family:\000034}}
-    button, a.button {
-      width: 100%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_mixins\.scss}line{font-family:\0000332}}
-  button object, a.button object {
-    width: 17px;
-    height: 17px;
-    margin-top: 8px;
-    padding: 0px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_extends\.scss}line{font-family:\000038}}
-button:nth-child(2), a.button:nth-child(2) {
-  background-color: #db71d2;
-  *zoom: 1;
-  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FFDB71D2', endColorstr='#FFDB71D2');
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #db71d2), color-stop(75%, #db71d2));
-  background-image: -webkit-linear-gradient(top, #db71d2 0%, #db71d2 75%);
-  background-image: -moz-linear-gradient(top, #db71d2 0%, #db71d2 75%);
-  background-image: -o-linear-gradient(top, #db71d2 0%, #db71d2 75%);
-  background-image: linear-gradient(top, #db71d2 0%, #db71d2 75%);
-  border: 1px solid #cb34bf;
-  color: black;
-  line-height: 2.28571em;
-  border-radius: 0.14286em;
-  padding: 0 1.42857em;
-  font-size: 0.85714em;
-  font-weight: bold;
-  border-radius: 2px;
-  color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_mixins\.scss}line{font-family:\0000322}}
-  button:hover:nth-child(2), a.button:hover:nth-child(2) {
-    background-color: #db71d2;
-    *zoom: 1;
-    filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FFDB71D2', endColorstr='#FFD351C8');
-    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(50%, #db71d2), color-stop(75%, #d351c8));
-    background-image: -webkit-linear-gradient(top, #db71d2 50%, #d351c8 75%);
-    background-image: -moz-linear-gradient(top, #db71d2 50%, #d351c8 75%);
-    background-image: -o-linear-gradient(top, #db71d2 50%, #d351c8 75%);
-    background-image: linear-gradient(top, #db71d2 50%, #d351c8 75%); }
-  @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_extends\.scss}line{font-family:\000038}}
-    button:nth-child(2), a.button:nth-child(2) {
-      width: 100%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_mixins\.scss}line{font-family:\0000332}}
-  button:nth-child(2) object, a.button:nth-child(2) object {
-    width: 17px;
-    height: 17px;
-    margin-top: 8px;
-    padding: 0px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_extends\.scss}line{font-family:\0000312}}
-button:nth-child(3), a.button:nth-child(3), button:nth-child(4), a.button:nth-child(4) {
-  background-color: #fff2e5;
-  *zoom: 1;
-  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FFFFF2E5', endColorstr='#FFFFF2E5');
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #fff2e5), color-stop(75%, #fff2e5));
-  background-image: -webkit-linear-gradient(top, #fff2e5 0%, #fff2e5 75%);
-  background-image: -moz-linear-gradient(top, #fff2e5 0%, #fff2e5 75%);
-  background-image: -o-linear-gradient(top, #fff2e5 0%, #fff2e5 75%);
-  background-image: linear-gradient(top, #fff2e5 0%, #fff2e5 75%);
-  border: 1px solid #ffc999;
-  color: black;
-  line-height: 2.28571em;
-  border-radius: 0.14286em;
-  padding: 0 1.42857em;
-  font-size: 0.85714em;
-  font-weight: bold;
-  border-radius: 2px;
-  color: #ff7800; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_mixins\.scss}line{font-family:\0000322}}
-  button:hover:nth-child(3), a.button:hover:nth-child(3), button:hover:nth-child(4), a.button:hover:nth-child(4) {
-    background-color: #fff2e5;
-    *zoom: 1;
-    filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FFFFF2E5', endColorstr='#FFFFDCBD');
-    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(50%, #fff2e5), color-stop(75%, #ffdcbd));
-    background-image: -webkit-linear-gradient(top, #fff2e5 50%, #ffdcbd 75%);
-    background-image: -moz-linear-gradient(top, #fff2e5 50%, #ffdcbd 75%);
-    background-image: -o-linear-gradient(top, #fff2e5 50%, #ffdcbd 75%);
-    background-image: linear-gradient(top, #fff2e5 50%, #ffdcbd 75%); }
-  @media screen and (max-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_extends\.scss}line{font-family:\0000312}}
-    button:nth-child(3), a.button:nth-child(3), button:nth-child(4), a.button:nth-child(4) {
-      width: 100%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/buttons\/_mixins\.scss}line{font-family:\0000332}}
-  button:nth-child(3) object, a.button:nth-child(3) object, button:nth-child(4) object, a.button:nth-child(4) object {
-    width: 17px;
-    height: 17px;
-    margin-top: 8px;
-    padding: 0px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_buttons\.scss}line{font-family:\0000323}}
-button, a.button {
-  margin-left: 1em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_buttons\.scss}line{font-family:\0000335}}
-  button:nth-child(1), a.button:nth-child(1) {
-    margin-left: 0; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_design\.scss}line{font-family:\000036}}
 section {
@@ -470,91 +269,93 @@ section {
   margin-left: 1.04167%;
   margin-right: 1.04167%;
   width: 22.91667%;
-  border: solid 1px #ff7800;
+  border: solid 1px #333333;
   border-radius: 5px;
-  background: rgba(0, 0, 0, 0.5); }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000315}}
-  #reading h2 {
-    margin: 8px;
-    color: #fdff00; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000319}}
-  #reading p {
-    margin: 8px; }
+  box-shadow: 3px 3px 4px #333333;
+  -moz-box-shadow: 3px 3px 4px #333333;
+  -webkit-box-shadow: 3px 3px 4px #333333;
+  box-shadow: 3px 3px 4px #333333;
+  display: block;
+  float: right; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000321}}
+  #reading dt {
+    background: #cccccc;
+    border-bottom: dotted 1px #333333;
+    font-weight: bold;
+    margin: 5px;
+    padding-bottom: 5px;
+    text-transform: capitalize; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000330}}
+  #reading dd {
+    background: #cccccc;
+    margin: 5px;
+    padding: 5px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000337}}
 #spread {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  box-sizing: border-box;
-  float: left;
-  margin-left: 1.04167%;
-  margin-right: 1.04167%;
-  width: 64.58333%;
-  height: 55em;
-  display: block; }
+  width: 100%;
+  height: 600px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000341}}
 #deck, #situation, #challenge, #power, #foundation, #past, #future, #self, #influences, #hope, #outcome {
   position: absolute;
   text-align: center;
   width: 15%;
   height: 20%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000348}}
 #situation {
-  top: 60%;
+  top: 40%;
   left: 25%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000352}}
 #challenge {
-  top: 57%;
-  left: 23%;
+  top: 40%;
+  left: 25%;
   -moz-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000360}}
 #power {
-  top: 42%;
+  top: 12%;
   left: 25%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000364}}
 #foundation {
-  top: 78%;
+  top: 68%;
   left: 25%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000368}}
 #past {
-  top: 60%;
+  top: 40%;
   left: 7%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000372}}
 #future {
-  top: 60%;
+  top: 40%;
   left: 42%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000376}}
 #self {
-  top: 90%;
-  left: 53%; }
+  top: 79%;
+  left: 60%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000380}}
 #influences {
-  top: 73%;
-  left: 53%; }
+  top: 53%;
+  left: 60%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000384}}
 #hope {
-  top: 55%;
-  left: 53%%; }
+  top: 27%;
+  left: 60%%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000387}}
 #outcome {
-  top: 38%;
-  left: 53%; }
+  top: 1%;
+  left: 60%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_cards\.scss}line{font-family:\000039}}
 .card_display_wrapper {
@@ -1295,7 +1096,7 @@ section {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/ui_patterns\/backgrounds\/_background_pattern\.scss}line{font-family:\000037}}
 body {
-  background: url(images/tarot/background.jpg) no-repeat center center fixed;
+  background: url(../images/tarot/background.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
