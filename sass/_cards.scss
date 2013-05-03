@@ -99,20 +99,20 @@
 }
 
 //COIN CARDS
-.coins {
-.one { @include cards("coins/1.gif"); }
-.two { @include cards("coins/2.gif"); }
-.three { @include cards("coins/3.gif"); }
-.four { @include cards("coins/4.gif"); }
-.five { @include cards("coins/5.gif"); }
-.six { @include cards("coins/6.gif"); }
-.seven { @include cards("coins/7.gif"); }
-.eight { @include cards("coins/8.gif"); }
-.nine { @include cards("coins/9.gif"); }
-.ten { @include cards("coins/10.gif"); }
-.page { @include cards("coins/page.gif"); }
-.knight { @include cards("coins/knight.gif"); }
-.queen { @include cards("coins/queen.gif"); }
-.king { @include cards("wands/king.gif"); }	
+	.coins {
+	.one { @include cards("coins/1.gif"); }
+	.two { @include cards("coins/2.gif"); }
+	.three { @include cards("coins/3.gif"); }
+	.four { @include cards("coins/4.gif"); }
+	.five { @include cards("coins/5.gif"); }
+	.six { @include cards("coins/6.gif"); }
+	.seven { @include cards("coins/7.gif"); }
+	.eight { @include cards("coins/8.gif"); }
+	.nine { @include cards("coins/9.gif"); }
+	.ten { @include cards("coins/10.gif"); }
+	.page { @include cards("coins/page.gif"); }
+	.knight { @include cards("coins/knight.gif"); }
+	.queen { @include cards("coins/queen.gif"); }
+	.king { @include cards("wands/king.gif"); }	
 }
 
