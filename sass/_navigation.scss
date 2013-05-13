@@ -20,10 +20,10 @@
 
 	dt {
 		background: $india_gray;
-		border-bottom:dotted 1px $charlie_gray;
+		border:dotted 1px $charlie_gray;
 		font-weight:bold;
 		margin:5px;
-		padding-bottom:5px;
+		padding:2px 0 5px 10px;
 		text-transform: capitalize;
 	}
 	
@@ -31,6 +31,14 @@
 		background: $india_gray;
 		margin:5px;
 		padding:5px;
+	}
+
+	dt.active{
+		color:$alpha_color;
+		background: $white;
+	}
+	dd.active {
+		 background: $white;
 	}
 }
 
