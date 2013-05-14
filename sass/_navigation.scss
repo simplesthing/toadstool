@@ -21,6 +21,7 @@
 	dt {
 		background: $india_gray;
 		border:dotted 1px $charlie_gray;
+		border-radius:5px;
 		font-weight:bold;
 		margin:5px;
 		padding:2px 0 5px 10px;
@@ -29,6 +30,8 @@
 	
 	dd {
 		background: $india_gray;
+		border:dotted 1px $charlie_gray;
+		border-radius:5px;
 		margin:5px;
 		padding:5px;
 	}
@@ -55,42 +58,46 @@
 }
 
 #challenge{
-	@include layout("39%", "24%");
+	@include layout("38%", "24%");
 	-moz-transform:rotate(90deg);
 	-webkit-transform:rotate(90deg);
 	-ms-transform:rotate(90deg);
 	filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5);	
 }
 
-@media(max-width: 1300px) and (min-height:900px) {
-	#challenge {
-		@include layout("37%", "22%");
+/* Landscape phones and under */
+@media (max-width: 480px) and (min-height: 600px){
+	#challenge{
+		@include layout("35%", "12%")
+	}
+}
+/* Landscape phones and under */
+@media (max-width: 480px) and (max-height: 320px){
+	#challenge{
+		@include layout("47%", "30%")
 	}
 }
 
-@media(max-width: 550px) and (min-height:900px) {
+/* Portrait tablet to landscape and desktop */
+@media (max-width:768px) and (min-height: 600px) {
 	#challenge {
-		@include layout("34%", "7%");
-	}
-}
-@media(max-width: 300px) and (min-height:900px) {
-	#challenge {
-		@include layout("32%", "-10%");
-	}
-}
-@media(max-width: 1300px) and (max-height:900px) {
-	#challenge {
-		@include layout("39%", "24%");
+		@include layout("37%", "20%");
 	}
 }
 
-@media(max-width: 550px) and (max-height:800px) {
+/* Portrait tablet to landscape and desktop */
+@media (max-width:768px) and (max-height: 600px) {
 	#challenge {
-		@include layout("39%", "22%");
+		@include layout("37%", "20%");
 	}
 }
 
-
+/* Large Desktop*/
+@media (min-width:1200px){
+	#challenge {
+			@include layout("38%", "24%");
+	}
+}
 #power {
 	@include layout("12%", "25%");
 }

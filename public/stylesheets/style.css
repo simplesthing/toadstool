@@ -281,105 +281,113 @@ section {
   #reading dt {
     background: #cccccc;
     border: dotted 1px #333333;
+    border-radius: 5px;
     font-weight: bold;
     margin: 5px;
     padding: 2px 0 5px 10px;
     text-transform: capitalize; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000331}}
   #reading dd {
     background: #cccccc;
+    border: dotted 1px #333333;
+    border-radius: 5px;
     margin: 5px;
     padding: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000339}}
   #reading dt.active {
     color: #ea0606;
     background: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000343}}
   #reading dd.active {
     background: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000349}}
 #deck, #situation, #challenge, #power, #foundation, #past, #future, #self, #influences, #hope, #outcome {
   position: absolute;
   text-align: center;
   width: 15%;
   height: 20%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000356}}
 #situation {
   top: 40%;
   left: 25%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000360}}
 #challenge {
-  top: 39%;
+  top: 38%;
   left: 24%;
   -moz-transform: rotate(90deg);
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5); }
 
-@media (max-width: 1300px) and (min-height: 900px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000366}}
+/* Landscape phones and under */
+@media (max-width: 480px) and (min-height: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000370}}
+  #challenge {
+    top: 35%;
+    left: 12%; } }
+/* Landscape phones and under */
+@media (max-width: 480px) and (max-height: 320px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000376}}
+  #challenge {
+    top: 47%;
+    left: 30%; } }
+/* Portrait tablet to landscape and desktop */
+@media (max-width: 768px) and (min-height: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000383}}
   #challenge {
     top: 37%;
-    left: 22%; } }
-@media (max-width: 550px) and (min-height: 900px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000372}}
+    left: 20%; } }
+/* Portrait tablet to landscape and desktop */
+@media (max-width: 768px) and (max-height: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000390}}
   #challenge {
-    top: 34%;
-    left: 7%; } }
-@media (max-width: 300px) and (min-height: 900px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000377}}
+    top: 37%;
+    left: 20%; } }
+/* Large Desktop*/
+@media (min-width: 1200px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000397}}
   #challenge {
-    top: 32%;
-    left: -10%; } }
-@media (max-width: 1300px) and (max-height: 900px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000382}}
-  #challenge {
-    top: 39%;
+    top: 38%;
     left: 24%; } }
-@media (max-width: 550px) and (max-height: 800px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000388}}
-  #challenge {
-    top: 39%;
-    left: 22%; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000394}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003101}}
 #power {
   top: 12%;
   left: 25%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003105}}
 #foundation {
   top: 68%;
   left: 25%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003109}}
 #past {
   top: 40%;
   left: 7%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003113}}
 #future {
   top: 40%;
   left: 42%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003110}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003117}}
 #self {
   top: 79%;
   left: 60%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003114}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003121}}
 #influences {
   top: 53%;
   left: 60%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003118}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003125}}
 #hope {
   top: 27%;
   left: 60%%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003121}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ava\/src\/toadstool\/sass\/_navigation\.scss}line{font-family:\00003128}}
 #outcome {
   top: 1%;
   left: 60%; }
